@@ -1,0 +1,211 @@
+<?xml version="1.0" encoding="utf-8"?>
+<CyXmlSerializer>
+<!--This file is machine generated and read. It is not intended to be edited by hand.-->
+<!--Due to this, there is no schema for this file.-->
+<CyGuid_843a90a4-0c4b-4e44-991d-05e7fb117a21 type_name="CyDesigner.Common.ProjMgmt.Model.CyPrjMgmtWrkspcCustomData" version="4">
+<CyGuid_fdba8dfd-b15b-4469-9bbb-9e40c3e70997 type_name="CyDesigner.Common.Base.CyCustomData" version="2">
+<userData>
+<dataGuid v="1b906a0f-a7b6-4e4d-a428-82f98b53cb35">
+<CyGuid_1b906a0f-a7b6-4e4d-a428-82f98b53cb35 type_name="CyDesigner.Common.ProjMgmt.GUI.CyExplorerWindow+CyExplorerWindowState" version="3" SelectedTab="Source">
+<TreeKeys>
+<v>Source</v>
+<v>Components</v>
+<v>Output</v>
+</TreeKeys>
+<TreeStates>
+<CyGuid_2a325b3b-c96a-4e9f-b7a0-2c44ecb5f237 type_name="CyDesigner.Common.Base.Controls.CyTreeViewState" version="1" SelectedNodeId="DigitalUtilityExample01\DigitalUtilityExample01\Header Files">
+<ExpandedNodeIds>
+<v>DigitalUtilityExample01</v>
+<v>DigitalUtilityExample01\DigitalUtilityExample01</v>
+<v>DigitalUtilityExample01\DigitalUtilityExample01\TopDesign</v>
+<v>DigitalUtilityExample01\DigitalUtilityExample01\DigitalUtilityExample01.cydwr</v>
+<v>DigitalUtilityExample01\DigitalUtilityExample01\DigitalUtilityExample01.cydwr\Pins</v>
+<v>DigitalUtilityExample01\DigitalUtilityExample01\DigitalUtilityExample01.cydwr\Analog</v>
+<v>DigitalUtilityExample01\DigitalUtilityExample01\DigitalUtilityExample01.cydwr\Clocks</v>
+<v>DigitalUtilityExample01\DigitalUtilityExample01\DigitalUtilityExample01.cydwr\Interrupts</v>
+<v>DigitalUtilityExample01\DigitalUtilityExample01\DigitalUtilityExample01.cydwr\DMA</v>
+<v>DigitalUtilityExample01\DigitalUtilityExample01\DigitalUtilityExample01.cydwr\System</v>
+<v>DigitalUtilityExample01\DigitalUtilityExample01\DigitalUtilityExample01.cydwr\Directives</v>
+<v>DigitalUtilityExample01\DigitalUtilityExample01\DigitalUtilityExample01.cydwr\Flash Security</v>
+<v>DigitalUtilityExample01\DigitalUtilityExample01\DigitalUtilityExample01.cydwr\EEPROM</v>
+<v>DigitalUtilityExample01\DigitalUtilityExample01\Header Files</v>
+<v>DigitalUtilityExample01\DigitalUtilityExample01\Header Files\cyapicallbacks.h</v>
+<v>DigitalUtilityExample01\DigitalUtilityExample01\Source Files</v>
+<v>DigitalUtilityExample01\DigitalUtilityExample01\Source Files\main.c</v>
+<v>DigitalUtilityExample01\DigitalUtilityExample01\DigitalUtilityExample.pdf</v>
+<v>DigitalUtilityExample01\DigitalUtilityExample01\Generated_Source</v>
+<v>DigitalUtilityExample01\DigitalUtilityExample01\Generated_Source\PSoC5</v>
+</ExpandedNodeIds>
+<VisibleNodeIds>
+<v>DigitalUtilityExample01</v>
+<v>DigitalUtilityExample01\DigitalUtilityExample01</v>
+<v>DigitalUtilityExample01\DigitalUtilityExample01\TopDesign</v>
+<v>DigitalUtilityExample01\DigitalUtilityExample01\DigitalUtilityExample01.cydwr</v>
+<v>DigitalUtilityExample01\DigitalUtilityExample01\DigitalUtilityExample01.cydwr\Pins</v>
+<v>DigitalUtilityExample01\DigitalUtilityExample01\DigitalUtilityExample01.cydwr\Analog</v>
+<v>DigitalUtilityExample01\DigitalUtilityExample01\DigitalUtilityExample01.cydwr\Clocks</v>
+<v>DigitalUtilityExample01\DigitalUtilityExample01\DigitalUtilityExample01.cydwr\Interrupts</v>
+<v>DigitalUtilityExample01\DigitalUtilityExample01\DigitalUtilityExample01.cydwr\DMA</v>
+<v>DigitalUtilityExample01\DigitalUtilityExample01\DigitalUtilityExample01.cydwr\System</v>
+<v>DigitalUtilityExample01\DigitalUtilityExample01\DigitalUtilityExample01.cydwr\Directives</v>
+<v>DigitalUtilityExample01\DigitalUtilityExample01\DigitalUtilityExample01.cydwr\Flash Security</v>
+<v>DigitalUtilityExample01\DigitalUtilityExample01\DigitalUtilityExample01.cydwr\EEPROM</v>
+<v>DigitalUtilityExample01\DigitalUtilityExample01\Header Files</v>
+<v>DigitalUtilityExample01\DigitalUtilityExample01\Header Files\cyapicallbacks.h</v>
+<v>DigitalUtilityExample01\DigitalUtilityExample01\Source Files</v>
+<v>DigitalUtilityExample01\DigitalUtilityExample01\Source Files\main.c</v>
+<v>DigitalUtilityExample01\DigitalUtilityExample01\DigitalUtilityExample.pdf</v>
+<v>DigitalUtilityExample01\DigitalUtilityExample01\Generated_Source</v>
+<v>DigitalUtilityExample01\DigitalUtilityExample01\Generated_Source\PSoC5</v>
+<v>DigitalUtilityExample01\DigitalUtilityExample01\Generated_Source\PSoC5\cy_boot</v>
+<v>DigitalUtilityExample01\DigitalUtilityExample01\Generated_Source\PSoC5\debounced_Int</v>
+<v>DigitalUtilityExample01\DigitalUtilityExample01\Generated_Source\PSoC5\Em_EEPROM_Dynamic</v>
+<v>DigitalUtilityExample01\DigitalUtilityExample01\Generated_Source\PSoC5\GlitchClk</v>
+<v>DigitalUtilityExample01\DigitalUtilityExample01\Generated_Source\PSoC5\P1_6</v>
+<v>DigitalUtilityExample01\DigitalUtilityExample01\Generated_Source\PSoC5\Pin_1</v>
+<v>DigitalUtilityExample01\DigitalUtilityExample01\Generated_Source\PSoC5\cycodeshareexport.ld</v>
+<v>DigitalUtilityExample01\DigitalUtilityExample01\Generated_Source\PSoC5\cycodeshareimport.ld</v>
+<v>DigitalUtilityExample01\DigitalUtilityExample01\Generated_Source\PSoC5\cycodeshareimport.scat</v>
+</VisibleNodeIds>
+</CyGuid_2a325b3b-c96a-4e9f-b7a0-2c44ecb5f237>
+<CyGuid_2a325b3b-c96a-4e9f-b7a0-2c44ecb5f237 type_name="CyDesigner.Common.Base.Controls.CyTreeViewState" version="1" SelectedNodeId="">
+<ExpandedNodeIds>
+<v>DigitalUtilityExample01</v>
+<v>DigitalUtilityExample01\DigitalUtilityExample01</v>
+<v>DigitalUtilityExample01\DigitalUtilityExample01\TopDesign</v>
+<v>DigitalUtilityExample01\DigitalUtilityExample01\TopDesign\TopDesign.cysch</v>
+</ExpandedNodeIds>
+<VisibleNodeIds>
+<v>DigitalUtilityExample01</v>
+<v>DigitalUtilityExample01\DigitalUtilityExample01</v>
+<v>DigitalUtilityExample01\DigitalUtilityExample01\TopDesign</v>
+<v>DigitalUtilityExample01\DigitalUtilityExample01\TopDesign\TopDesign.cysch</v>
+</VisibleNodeIds>
+</CyGuid_2a325b3b-c96a-4e9f-b7a0-2c44ecb5f237>
+<CyGuid_2a325b3b-c96a-4e9f-b7a0-2c44ecb5f237 type_name="CyDesigner.Common.Base.Controls.CyTreeViewState" version="1" SelectedNodeId="">
+<ExpandedNodeIds>
+<v>DigitalUtilityExample01</v>
+<v>DigitalUtilityExample01\DigitalUtilityExample01</v>
+<v>DigitalUtilityExample01\DigitalUtilityExample01\CortexM3</v>
+<v>DigitalUtilityExample01\DigitalUtilityExample01\CortexM3\ARM_GCC_541</v>
+<v>DigitalUtilityExample01\DigitalUtilityExample01\CortexM3\ARM_GCC_541\Debug</v>
+<v>DigitalUtilityExample01\DigitalUtilityExample01\CortexM3\ARM_GCC_541\Debug\Listing Files</v>
+<v>DigitalUtilityExample01\DigitalUtilityExample01\CortexM3\ARM_GCC_541\Debug\Listing Files\Cm3Start.lst</v>
+<v>DigitalUtilityExample01\DigitalUtilityExample01\CortexM3\ARM_GCC_541\Debug\Listing Files\cy_em_eeprom.lst</v>
+<v>DigitalUtilityExample01\DigitalUtilityExample01\CortexM3\ARM_GCC_541\Debug\Listing Files\CyBootAsmGnu.lst</v>
+<v>DigitalUtilityExample01\DigitalUtilityExample01\CortexM3\ARM_GCC_541\Debug\Listing Files\CyDmac.lst</v>
+<v>DigitalUtilityExample01\DigitalUtilityExample01\CortexM3\ARM_GCC_541\Debug\Listing Files\cyfitter_cfg.lst</v>
+<v>DigitalUtilityExample01\DigitalUtilityExample01\CortexM3\ARM_GCC_541\Debug\Listing Files\CyFlash.lst</v>
+<v>DigitalUtilityExample01\DigitalUtilityExample01\CortexM3\ARM_GCC_541\Debug\Listing Files\CyLib.lst</v>
+<v>DigitalUtilityExample01\DigitalUtilityExample01\CortexM3\ARM_GCC_541\Debug\Listing Files\cymetadata.lst</v>
+<v>DigitalUtilityExample01\DigitalUtilityExample01\CortexM3\ARM_GCC_541\Debug\Listing Files\cyPm.lst</v>
+<v>DigitalUtilityExample01\DigitalUtilityExample01\CortexM3\ARM_GCC_541\Debug\Listing Files\CySpc.lst</v>
+<v>DigitalUtilityExample01\DigitalUtilityExample01\CortexM3\ARM_GCC_541\Debug\Listing Files\cyutils.lst</v>
+<v>DigitalUtilityExample01\DigitalUtilityExample01\CortexM3\ARM_GCC_541\Debug\Listing Files\debounced_Int.lst</v>
+<v>DigitalUtilityExample01\DigitalUtilityExample01\CortexM3\ARM_GCC_541\Debug\Listing Files\GlitchClk.lst</v>
+<v>DigitalUtilityExample01\DigitalUtilityExample01\CortexM3\ARM_GCC_541\Debug\Listing Files\main.lst</v>
+<v>DigitalUtilityExample01\DigitalUtilityExample01\CortexM3\ARM_GCC_541\Debug\Listing Files\P1_6.lst</v>
+<v>DigitalUtilityExample01\DigitalUtilityExample01\CortexM3\ARM_GCC_541\Debug\Listing Files\Pin_1.lst</v>
+<v>DigitalUtilityExample01\DigitalUtilityExample01\CortexM3\ARM_GCC_541\Debug\DigitalUtilityExample01.elf</v>
+<v>DigitalUtilityExample01\DigitalUtilityExample01\CortexM3\ARM_GCC_541\Debug\DigitalUtilityExample01.hex</v>
+<v>DigitalUtilityExample01\DigitalUtilityExample01\CortexM3\ARM_GCC_541\Debug\DigitalUtilityExample01.map</v>
+<v>DigitalUtilityExample01\DigitalUtilityExample01\DigitalUtilityExample01.gpdsc</v>
+<v>DigitalUtilityExample01\DigitalUtilityExample01\DigitalUtilityExample01.rpt</v>
+<v>DigitalUtilityExample01\DigitalUtilityExample01\DigitalUtilityExample01_timing.html</v>
+</ExpandedNodeIds>
+<VisibleNodeIds>
+<v>DigitalUtilityExample01</v>
+<v>DigitalUtilityExample01\DigitalUtilityExample01</v>
+<v>DigitalUtilityExample01\DigitalUtilityExample01\CortexM3</v>
+<v>DigitalUtilityExample01\DigitalUtilityExample01\CortexM3\ARM_GCC_541</v>
+<v>DigitalUtilityExample01\DigitalUtilityExample01\CortexM3\ARM_GCC_541\Debug</v>
+<v>DigitalUtilityExample01\DigitalUtilityExample01\CortexM3\ARM_GCC_541\Debug\Listing Files</v>
+<v>DigitalUtilityExample01\DigitalUtilityExample01\CortexM3\ARM_GCC_541\Debug\Listing Files\Cm3Start.lst</v>
+<v>DigitalUtilityExample01\DigitalUtilityExample01\CortexM3\ARM_GCC_541\Debug\Listing Files\cy_em_eeprom.lst</v>
+<v>DigitalUtilityExample01\DigitalUtilityExample01\CortexM3\ARM_GCC_541\Debug\Listing Files\CyBootAsmGnu.lst</v>
+<v>DigitalUtilityExample01\DigitalUtilityExample01\CortexM3\ARM_GCC_541\Debug\Listing Files\CyDmac.lst</v>
+<v>DigitalUtilityExample01\DigitalUtilityExample01\CortexM3\ARM_GCC_541\Debug\Listing Files\cyfitter_cfg.lst</v>
+<v>DigitalUtilityExample01\DigitalUtilityExample01\CortexM3\ARM_GCC_541\Debug\Listing Files\CyFlash.lst</v>
+<v>DigitalUtilityExample01\DigitalUtilityExample01\CortexM3\ARM_GCC_541\Debug\Listing Files\CyLib.lst</v>
+<v>DigitalUtilityExample01\DigitalUtilityExample01\CortexM3\ARM_GCC_541\Debug\Listing Files\cymetadata.lst</v>
+<v>DigitalUtilityExample01\DigitalUtilityExample01\CortexM3\ARM_GCC_541\Debug\Listing Files\cyPm.lst</v>
+<v>DigitalUtilityExample01\DigitalUtilityExample01\CortexM3\ARM_GCC_541\Debug\Listing Files\CySpc.lst</v>
+<v>DigitalUtilityExample01\DigitalUtilityExample01\CortexM3\ARM_GCC_541\Debug\Listing Files\cyutils.lst</v>
+<v>DigitalUtilityExample01\DigitalUtilityExample01\CortexM3\ARM_GCC_541\Debug\Listing Files\debounced_Int.lst</v>
+<v>DigitalUtilityExample01\DigitalUtilityExample01\CortexM3\ARM_GCC_541\Debug\Listing Files\GlitchClk.lst</v>
+<v>DigitalUtilityExample01\DigitalUtilityExample01\CortexM3\ARM_GCC_541\Debug\Listing Files\main.lst</v>
+<v>DigitalUtilityExample01\DigitalUtilityExample01\CortexM3\ARM_GCC_541\Debug\Listing Files\P1_6.lst</v>
+<v>DigitalUtilityExample01\DigitalUtilityExample01\CortexM3\ARM_GCC_541\Debug\Listing Files\Pin_1.lst</v>
+<v>DigitalUtilityExample01\DigitalUtilityExample01\CortexM3\ARM_GCC_541\Debug\DigitalUtilityExample01.elf</v>
+<v>DigitalUtilityExample01\DigitalUtilityExample01\CortexM3\ARM_GCC_541\Debug\DigitalUtilityExample01.hex</v>
+<v>DigitalUtilityExample01\DigitalUtilityExample01\CortexM3\ARM_GCC_541\Debug\DigitalUtilityExample01.map</v>
+<v>DigitalUtilityExample01\DigitalUtilityExample01\DigitalUtilityExample01.gpdsc</v>
+<v>DigitalUtilityExample01\DigitalUtilityExample01\DigitalUtilityExample01.rpt</v>
+<v>DigitalUtilityExample01\DigitalUtilityExample01\DigitalUtilityExample01_timing.html</v>
+</VisibleNodeIds>
+</CyGuid_2a325b3b-c96a-4e9f-b7a0-2c44ecb5f237>
+</TreeStates>
+<TreeKeysV2>
+<v>Datasheet</v>
+</TreeKeysV2>
+<TreeStatesV2>
+<CyGuid_2a325b3b-c96a-4e9f-b7a0-2c44ecb5f237 type_name="CyDesigner.Common.Base.Controls.CyTreeViewState" version="1" SelectedNodeId="">
+<ExpandedNodeIds>
+<v>DigitalUtilityExample01</v>
+<v>DigitalUtilityExample01\DigitalUtilityExample01</v>
+<v>DigitalUtilityExample01\DigitalUtilityExample01\PSoC 5LP Architecture TRM</v>
+<v>DigitalUtilityExample01\DigitalUtilityExample01\CY8C58LP Family Datasheet</v>
+<v>DigitalUtilityExample01\DigitalUtilityExample01\System Reference Guides</v>
+<v>DigitalUtilityExample01\DigitalUtilityExample01\System Reference Guides\cy_boot_v5_60</v>
+<v>DigitalUtilityExample01\DigitalUtilityExample01\and_v1_0.pdf</v>
+<v>DigitalUtilityExample01\DigitalUtilityExample01\cy_clock_v2_20.pdf</v>
+<v>DigitalUtilityExample01\DigitalUtilityExample01\cy_constant_v1_0.pdf</v>
+<v>DigitalUtilityExample01\DigitalUtilityExample01\cy_isr_v1_70.pdf</v>
+<v>DigitalUtilityExample01\DigitalUtilityExample01\cy_pins_v2_20</v>
+<v>DigitalUtilityExample01\DigitalUtilityExample01\cy_pins_v2_20\cy_pins_v2_20.pdf</v>
+<v>DigitalUtilityExample01\DigitalUtilityExample01\Debouncer_v1_0.pdf</v>
+<v>DigitalUtilityExample01\DigitalUtilityExample01\Gnd_v1_0.pdf</v>
+<v>DigitalUtilityExample01\DigitalUtilityExample01\not_v1_0.pdf</v>
+<v>DigitalUtilityExample01\DigitalUtilityExample01\SwitchSPST_v1_0.pdf</v>
+</ExpandedNodeIds>
+<VisibleNodeIds>
+<v>DigitalUtilityExample01</v>
+<v>DigitalUtilityExample01\DigitalUtilityExample01</v>
+<v>DigitalUtilityExample01\DigitalUtilityExample01\PSoC 5LP Architecture TRM</v>
+<v>DigitalUtilityExample01\DigitalUtilityExample01\CY8C58LP Family Datasheet</v>
+<v>DigitalUtilityExample01\DigitalUtilityExample01\System Reference Guides</v>
+<v>DigitalUtilityExample01\DigitalUtilityExample01\System Reference Guides\cy_boot_v5_60</v>
+<v>DigitalUtilityExample01\DigitalUtilityExample01\and_v1_0.pdf</v>
+<v>DigitalUtilityExample01\DigitalUtilityExample01\cy_clock_v2_20.pdf</v>
+<v>DigitalUtilityExample01\DigitalUtilityExample01\cy_constant_v1_0.pdf</v>
+<v>DigitalUtilityExample01\DigitalUtilityExample01\cy_isr_v1_70.pdf</v>
+<v>DigitalUtilityExample01\DigitalUtilityExample01\cy_pins_v2_20</v>
+<v>DigitalUtilityExample01\DigitalUtilityExample01\cy_pins_v2_20\cy_pins_v2_20.pdf</v>
+<v>DigitalUtilityExample01\DigitalUtilityExample01\Debouncer_v1_0.pdf</v>
+<v>DigitalUtilityExample01\DigitalUtilityExample01\Gnd_v1_0.pdf</v>
+<v>DigitalUtilityExample01\DigitalUtilityExample01\not_v1_0.pdf</v>
+<v>DigitalUtilityExample01\DigitalUtilityExample01\SwitchSPST_v1_0.pdf</v>
+</VisibleNodeIds>
+</CyGuid_2a325b3b-c96a-4e9f-b7a0-2c44ecb5f237>
+</TreeStatesV2>
+</CyGuid_1b906a0f-a7b6-4e4d-a428-82f98b53cb35>
+</dataGuid>
+</userData>
+</CyGuid_fdba8dfd-b15b-4469-9bbb-9e40c3e70997>
+<Unloaded />
+<OpenDocs>
+<name v=".\DigitalUtilityExample01.cydsn\TopDesign\TopDesign.cysch" />
+<name v=".\DigitalUtilityExample01.cydsn\DigitalUtilityExample01.cydwr" />
+<name v=".\DigitalUtilityExample01.cydsn\main.c" />
+</OpenDocs>
+<OpenDocsLayout><![CDATA[<?xml version="1.0"?><!--
+
+  Actipro Docking/MDI for WinForms
+  Copyright (c) 2001-2016 Actipro Software LLC.  All rights reserved.
+  http://www.actiprosoftware.com
+
+--><DocumentLayout Version="1.0"><LayoutData><TabbedMdiRootContainer Orientation="Horizontal"><TabbedMdiContainer Size="1068, 580" SelectedTabbedMdiWindow="e2bb0020-8a4a-4c8a-8e65-ac6c38b0b65e"><DocumentWindow Key="C:\Users\Lenovo\Documents\PSoC Creator\DigitalUtilityExample01\DigitalUtilityExample01.cydsn\TopDesign\TopDesign.cysch" Guid="b8c910b5-7c38-4b87-aceb-01dd3716504f" /><DocumentWindow Key="C:\Users\Lenovo\Documents\PSoC Creator\DigitalUtilityExample01\DigitalUtilityExample01.cydsn\DigitalUtilityExample01.cydwr" Guid="52ab7d4c-1bea-447f-958e-be506fa08bf8" /><DocumentWindow Key="C:\Users\Lenovo\Documents\PSoC Creator\DigitalUtilityExample01\DigitalUtilityExample01.cydsn\main.c" Guid="e2bb0020-8a4a-4c8a-8e65-ac6c38b0b65e" /><ToolWindow Key="Start Page:bd4649ab-da6b-4d04-a663-c722b8bf99db:Start Page" Guid="109e0a93-4efd-4261-8914-b222d68a995e" /></TabbedMdiContainer></TabbedMdiRootContainer><FloatingContainers /></LayoutData></DocumentLayout>]]></OpenDocsLayout>
+<config v="" />
+<AutoUpdate v="true" />
+</CyGuid_843a90a4-0c4b-4e44-991d-05e7fb117a21>
+</CyXmlSerializer>
