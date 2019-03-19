@@ -30,8 +30,11 @@
 <v>DigitalUtilityExample01\DigitalUtilityExample01\DigitalUtilityExample01.cydwr\EEPROM</v>
 <v>DigitalUtilityExample01\DigitalUtilityExample01\Header Files</v>
 <v>DigitalUtilityExample01\DigitalUtilityExample01\Header Files\cyapicallbacks.h</v>
+<v>DigitalUtilityExample01\DigitalUtilityExample01\Header Files\GVar.h</v>
+<v>DigitalUtilityExample01\DigitalUtilityExample01\Header Files\printer.h</v>
 <v>DigitalUtilityExample01\DigitalUtilityExample01\Source Files</v>
 <v>DigitalUtilityExample01\DigitalUtilityExample01\Source Files\main.c</v>
+<v>DigitalUtilityExample01\DigitalUtilityExample01\Source Files\printer.c</v>
 <v>DigitalUtilityExample01\DigitalUtilityExample01\DigitalUtilityExample.pdf</v>
 <v>DigitalUtilityExample01\DigitalUtilityExample01\Generated_Source</v>
 <v>DigitalUtilityExample01\DigitalUtilityExample01\Generated_Source\PSoC5</v>
@@ -52,8 +55,11 @@
 <v>DigitalUtilityExample01\DigitalUtilityExample01\DigitalUtilityExample01.cydwr\EEPROM</v>
 <v>DigitalUtilityExample01\DigitalUtilityExample01\Header Files</v>
 <v>DigitalUtilityExample01\DigitalUtilityExample01\Header Files\cyapicallbacks.h</v>
+<v>DigitalUtilityExample01\DigitalUtilityExample01\Header Files\GVar.h</v>
+<v>DigitalUtilityExample01\DigitalUtilityExample01\Header Files\printer.h</v>
 <v>DigitalUtilityExample01\DigitalUtilityExample01\Source Files</v>
 <v>DigitalUtilityExample01\DigitalUtilityExample01\Source Files\main.c</v>
+<v>DigitalUtilityExample01\DigitalUtilityExample01\Source Files\printer.c</v>
 <v>DigitalUtilityExample01\DigitalUtilityExample01\DigitalUtilityExample.pdf</v>
 <v>DigitalUtilityExample01\DigitalUtilityExample01\Generated_Source</v>
 <v>DigitalUtilityExample01\DigitalUtilityExample01\Generated_Source\PSoC5</v>
@@ -63,9 +69,6 @@
 <v>DigitalUtilityExample01\DigitalUtilityExample01\Generated_Source\PSoC5\GlitchClk</v>
 <v>DigitalUtilityExample01\DigitalUtilityExample01\Generated_Source\PSoC5\P1_6</v>
 <v>DigitalUtilityExample01\DigitalUtilityExample01\Generated_Source\PSoC5\Pin_1</v>
-<v>DigitalUtilityExample01\DigitalUtilityExample01\Generated_Source\PSoC5\cycodeshareexport.ld</v>
-<v>DigitalUtilityExample01\DigitalUtilityExample01\Generated_Source\PSoC5\cycodeshareimport.ld</v>
-<v>DigitalUtilityExample01\DigitalUtilityExample01\Generated_Source\PSoC5\cycodeshareimport.scat</v>
 </VisibleNodeIds>
 </CyGuid_2a325b3b-c96a-4e9f-b7a0-2c44ecb5f237>
 <CyGuid_2a325b3b-c96a-4e9f-b7a0-2c44ecb5f237 type_name="CyDesigner.Common.Base.Controls.CyTreeViewState" version="1" SelectedNodeId="">
@@ -106,6 +109,16 @@
 <v>DigitalUtilityExample01\DigitalUtilityExample01\CortexM3\ARM_GCC_541\Debug\Listing Files\main.lst</v>
 <v>DigitalUtilityExample01\DigitalUtilityExample01\CortexM3\ARM_GCC_541\Debug\Listing Files\P1_6.lst</v>
 <v>DigitalUtilityExample01\DigitalUtilityExample01\CortexM3\ARM_GCC_541\Debug\Listing Files\Pin_1.lst</v>
+<v>DigitalUtilityExample01\DigitalUtilityExample01\CortexM3\ARM_GCC_541\Debug\Listing Files\PRINTER_A.lst</v>
+<v>DigitalUtilityExample01\DigitalUtilityExample01\CortexM3\ARM_GCC_541\Debug\Listing Files\PRINTER_A_BOOT.lst</v>
+<v>DigitalUtilityExample01\DigitalUtilityExample01\CortexM3\ARM_GCC_541\Debug\Listing Files\PRINTER_A_INT.lst</v>
+<v>DigitalUtilityExample01\DigitalUtilityExample01\CortexM3\ARM_GCC_541\Debug\Listing Files\PRINTER_A_IntClock.lst</v>
+<v>DigitalUtilityExample01\DigitalUtilityExample01\CortexM3\ARM_GCC_541\Debug\Listing Files\PRINTER_A_PM.lst</v>
+<v>DigitalUtilityExample01\DigitalUtilityExample01\CortexM3\ARM_GCC_541\Debug\Listing Files\screen.lst</v>
+<v>DigitalUtilityExample01\DigitalUtilityExample01\CortexM3\ARM_GCC_541\Debug\Listing Files\screen_BOOT.lst</v>
+<v>DigitalUtilityExample01\DigitalUtilityExample01\CortexM3\ARM_GCC_541\Debug\Listing Files\screen_INT.lst</v>
+<v>DigitalUtilityExample01\DigitalUtilityExample01\CortexM3\ARM_GCC_541\Debug\Listing Files\screen_IntClock.lst</v>
+<v>DigitalUtilityExample01\DigitalUtilityExample01\CortexM3\ARM_GCC_541\Debug\Listing Files\screen_PM.lst</v>
 <v>DigitalUtilityExample01\DigitalUtilityExample01\CortexM3\ARM_GCC_541\Debug\DigitalUtilityExample01.elf</v>
 <v>DigitalUtilityExample01\DigitalUtilityExample01\CortexM3\ARM_GCC_541\Debug\DigitalUtilityExample01.hex</v>
 <v>DigitalUtilityExample01\DigitalUtilityExample01\CortexM3\ARM_GCC_541\Debug\DigitalUtilityExample01.map</v>
@@ -136,12 +149,13 @@
 <v>DigitalUtilityExample01\DigitalUtilityExample01\CortexM3\ARM_GCC_541\Debug\Listing Files\main.lst</v>
 <v>DigitalUtilityExample01\DigitalUtilityExample01\CortexM3\ARM_GCC_541\Debug\Listing Files\P1_6.lst</v>
 <v>DigitalUtilityExample01\DigitalUtilityExample01\CortexM3\ARM_GCC_541\Debug\Listing Files\Pin_1.lst</v>
-<v>DigitalUtilityExample01\DigitalUtilityExample01\CortexM3\ARM_GCC_541\Debug\DigitalUtilityExample01.elf</v>
-<v>DigitalUtilityExample01\DigitalUtilityExample01\CortexM3\ARM_GCC_541\Debug\DigitalUtilityExample01.hex</v>
-<v>DigitalUtilityExample01\DigitalUtilityExample01\CortexM3\ARM_GCC_541\Debug\DigitalUtilityExample01.map</v>
-<v>DigitalUtilityExample01\DigitalUtilityExample01\DigitalUtilityExample01.gpdsc</v>
-<v>DigitalUtilityExample01\DigitalUtilityExample01\DigitalUtilityExample01.rpt</v>
-<v>DigitalUtilityExample01\DigitalUtilityExample01\DigitalUtilityExample01_timing.html</v>
+<v>DigitalUtilityExample01\DigitalUtilityExample01\CortexM3\ARM_GCC_541\Debug\Listing Files\PRINTER_A.lst</v>
+<v>DigitalUtilityExample01\DigitalUtilityExample01\CortexM3\ARM_GCC_541\Debug\Listing Files\PRINTER_A_BOOT.lst</v>
+<v>DigitalUtilityExample01\DigitalUtilityExample01\CortexM3\ARM_GCC_541\Debug\Listing Files\PRINTER_A_INT.lst</v>
+<v>DigitalUtilityExample01\DigitalUtilityExample01\CortexM3\ARM_GCC_541\Debug\Listing Files\PRINTER_A_IntClock.lst</v>
+<v>DigitalUtilityExample01\DigitalUtilityExample01\CortexM3\ARM_GCC_541\Debug\Listing Files\PRINTER_A_PM.lst</v>
+<v>DigitalUtilityExample01\DigitalUtilityExample01\CortexM3\ARM_GCC_541\Debug\Listing Files\screen.lst</v>
+<v>DigitalUtilityExample01\DigitalUtilityExample01\CortexM3\ARM_GCC_541\Debug\Listing Files\screen_BOOT.lst</v>
 </VisibleNodeIds>
 </CyGuid_2a325b3b-c96a-4e9f-b7a0-2c44ecb5f237>
 </TreeStates>
@@ -167,6 +181,8 @@
 <v>DigitalUtilityExample01\DigitalUtilityExample01\Gnd_v1_0.pdf</v>
 <v>DigitalUtilityExample01\DigitalUtilityExample01\not_v1_0.pdf</v>
 <v>DigitalUtilityExample01\DigitalUtilityExample01\SwitchSPST_v1_0.pdf</v>
+<v>DigitalUtilityExample01\DigitalUtilityExample01\UART_v2_50</v>
+<v>DigitalUtilityExample01\DigitalUtilityExample01\UART_v2_50\UART_v2_50.pdf</v>
 </ExpandedNodeIds>
 <VisibleNodeIds>
 <v>DigitalUtilityExample01</v>
@@ -185,6 +201,8 @@
 <v>DigitalUtilityExample01\DigitalUtilityExample01\Gnd_v1_0.pdf</v>
 <v>DigitalUtilityExample01\DigitalUtilityExample01\not_v1_0.pdf</v>
 <v>DigitalUtilityExample01\DigitalUtilityExample01\SwitchSPST_v1_0.pdf</v>
+<v>DigitalUtilityExample01\DigitalUtilityExample01\UART_v2_50</v>
+<v>DigitalUtilityExample01\DigitalUtilityExample01\UART_v2_50\UART_v2_50.pdf</v>
 </VisibleNodeIds>
 </CyGuid_2a325b3b-c96a-4e9f-b7a0-2c44ecb5f237>
 </TreeStatesV2>
@@ -194,9 +212,11 @@
 </CyGuid_fdba8dfd-b15b-4469-9bbb-9e40c3e70997>
 <Unloaded />
 <OpenDocs>
-<name v=".\DigitalUtilityExample01.cydsn\TopDesign\TopDesign.cysch" />
-<name v=".\DigitalUtilityExample01.cydsn\DigitalUtilityExample01.cydwr" />
 <name v=".\DigitalUtilityExample01.cydsn\main.c" />
+<name v=".\DigitalUtilityExample01.cydsn\TopDesign\TopDesign.cysch" />
+<name v=".\DigitalUtilityExample01.cydsn\printer.c" />
+<name v=".\DigitalUtilityExample01.cydsn\GVar.h" />
+<name v=".\DigitalUtilityExample01.cydsn\printer.h" />
 </OpenDocs>
 <OpenDocsLayout><![CDATA[<?xml version="1.0"?><!--
 
@@ -204,7 +224,7 @@
   Copyright (c) 2001-2016 Actipro Software LLC.  All rights reserved.
   http://www.actiprosoftware.com
 
---><DocumentLayout Version="1.0"><LayoutData><TabbedMdiRootContainer Orientation="Horizontal"><TabbedMdiContainer Size="1068, 580" SelectedTabbedMdiWindow="e2bb0020-8a4a-4c8a-8e65-ac6c38b0b65e"><DocumentWindow Key="C:\Users\Lenovo\Documents\PSoC Creator\DigitalUtilityExample01\DigitalUtilityExample01.cydsn\TopDesign\TopDesign.cysch" Guid="b8c910b5-7c38-4b87-aceb-01dd3716504f" /><DocumentWindow Key="C:\Users\Lenovo\Documents\PSoC Creator\DigitalUtilityExample01\DigitalUtilityExample01.cydsn\DigitalUtilityExample01.cydwr" Guid="52ab7d4c-1bea-447f-958e-be506fa08bf8" /><DocumentWindow Key="C:\Users\Lenovo\Documents\PSoC Creator\DigitalUtilityExample01\DigitalUtilityExample01.cydsn\main.c" Guid="e2bb0020-8a4a-4c8a-8e65-ac6c38b0b65e" /><ToolWindow Key="Start Page:bd4649ab-da6b-4d04-a663-c722b8bf99db:Start Page" Guid="109e0a93-4efd-4261-8914-b222d68a995e" /></TabbedMdiContainer></TabbedMdiRootContainer><FloatingContainers /></LayoutData></DocumentLayout>]]></OpenDocsLayout>
+--><DocumentLayout Version="1.0"><LayoutData><TabbedMdiRootContainer Orientation="Horizontal"><TabbedMdiContainer Size="1068, 580" SelectedTabbedMdiWindow="eaa39ff4-8bb9-44f6-ae8f-205bcfed277f"><ToolWindow Key="Start Page:bd4649ab-da6b-4d04-a663-c722b8bf99db:Start Page" Guid="109e0a93-4efd-4261-8914-b222d68a995e" /><DocumentWindow Key="C:\Users\Lenovo\Documents\PSoC Creator\DigitalUtilityExample01\IMP-CRR\DigitalUtilityExample01.cydsn\main.c" Guid="bcf2aa67-f310-4fa5-a96a-4cfa5dc0aa3a" /><DocumentWindow Key="C:\Users\Lenovo\Documents\PSoC Creator\DigitalUtilityExample01\IMP-CRR\DigitalUtilityExample01.cydsn\TopDesign\TopDesign.cysch" Guid="c4eb7f82-c905-4e78-a046-9618d3230f17" /><DocumentWindow Key="C:\Users\Lenovo\Documents\PSoC Creator\DigitalUtilityExample01\IMP-CRR\DigitalUtilityExample01.cydsn\printer.c" Guid="eaa39ff4-8bb9-44f6-ae8f-205bcfed277f" /><DocumentWindow Key="C:\Users\Lenovo\Documents\PSoC Creator\DigitalUtilityExample01\IMP-CRR\DigitalUtilityExample01.cydsn\GVar.h" Guid="b1898bf9-bce1-48de-baf9-47abca5d604c" /><DocumentWindow Key="C:\Users\Lenovo\Documents\PSoC Creator\DigitalUtilityExample01\IMP-CRR\DigitalUtilityExample01.cydsn\printer.h" Guid="0dad270d-140c-4c2b-a3ca-c1781d9cc297" /></TabbedMdiContainer></TabbedMdiRootContainer><FloatingContainers /></LayoutData></DocumentLayout>]]></OpenDocsLayout>
 <config v="" />
 <AutoUpdate v="true" />
 </CyGuid_843a90a4-0c4b-4e44-991d-05e7fb117a21>

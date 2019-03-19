@@ -36,10 +36,14 @@ int main()
      /* Interrupt handler for switch and debounced switch */
     debounced_Int_StartEx(debouncedInt_Handler);
     
-     /* Clears pending interrupt */
-    
+     /* Clears pending interrupt */    
     debounced_Int_ClearPending();
     
+    /* printer UART */
+    PRINTER_A_Start();
+    
+    /* screen UART */
+    screen_Start();
     for(;;)
     {
         /* Enable global interrupts. */

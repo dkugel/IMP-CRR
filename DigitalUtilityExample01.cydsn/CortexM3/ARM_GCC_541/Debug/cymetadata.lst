@@ -1,4 +1,4 @@
-ARM GAS  C:\Users\Lenovo\AppData\Local\Temp\ccEY0dHu.s 			page 1
+ARM GAS  C:\Users\Lenovo\AppData\Local\Temp\ccn6Avri.s 			page 1
 
 
    1              		.syntax unified
@@ -27,596 +27,1985 @@ ARM GAS  C:\Users\Lenovo\AppData\Local\Temp\ccEY0dHu.s 			page 1
   24              		.section	.cyconfigecc,"a",%progbits
   25              		.align	2
   26              		.type	cy_meta_configecc, %object
-  27              		.size	cy_meta_configecc, 136
+  27              		.size	cy_meta_configecc, 1428
   28              	cy_meta_configecc:
-  29 0000 02       		.byte	2
+  29 0000 05       		.byte	5
   30 0001 52       		.byte	82
   31 0002 00       		.byte	0
   32 0003 40       		.byte	64
-  33 0004 01       		.byte	1
-  34 0005 05       		.byte	5
-  35 0006 01       		.byte	1
+  33 0004 04       		.byte	4
+  34 0005 64       		.byte	100
+  35 0006 00       		.byte	0
   36 0007 40       		.byte	64
-  37 0008 02       		.byte	2
-  38 0009 0B       		.byte	11
+  37 0008 56       		.byte	86
+  38 0009 00       		.byte	0
   39 000a 01       		.byte	1
   40 000b 40       		.byte	64
-  41 000c 07       		.byte	7
-  42 000d 0C       		.byte	12
+  41 000c 3A       		.byte	58
+  42 000d 01       		.byte	1
   43 000e 01       		.byte	1
   44 000f 40       		.byte	64
-  45 0010 05       		.byte	5
-  46 0011 0D       		.byte	13
+  45 0010 5E       		.byte	94
+  46 0011 02       		.byte	2
   47 0012 01       		.byte	1
   48 0013 40       		.byte	64
-  49 0014 02       		.byte	2
-  50 0015 40       		.byte	64
+  49 0014 43       		.byte	67
+  50 0015 03       		.byte	3
   51 0016 01       		.byte	1
   52 0017 40       		.byte	64
-  53 0018 01       		.byte	1
-  54 0019 41       		.byte	65
+  53 0018 4A       		.byte	74
+  54 0019 04       		.byte	4
   55 001a 01       		.byte	1
   56 001b 40       		.byte	64
-  57 001c 02       		.byte	2
-ARM GAS  C:\Users\Lenovo\AppData\Local\Temp\ccEY0dHu.s 			page 2
+  57 001c 46       		.byte	70
+ARM GAS  C:\Users\Lenovo\AppData\Local\Temp\ccn6Avri.s 			page 2
 
 
-  58 001d 42       		.byte	66
+  58 001d 05       		.byte	5
   59 001e 01       		.byte	1
   60 001f 40       		.byte	64
-  61 0020 06       		.byte	6
-  62 0021 45       		.byte	69
+  61 0020 52       		.byte	82
+  62 0021 06       		.byte	6
   63 0022 01       		.byte	1
   64 0023 40       		.byte	64
-  65 0024 02       		.byte	2
-  66 0025 46       		.byte	70
+  65 0024 45       		.byte	69
+  66 0025 07       		.byte	7
   67 0026 01       		.byte	1
   68 0027 40       		.byte	64
   69 0028 02       		.byte	2
-  70 0029 50       		.byte	80
+  70 0029 0B       		.byte	11
   71 002a 01       		.byte	1
   72 002b 40       		.byte	64
-  73 002c 01       		.byte	1
-  74 002d 51       		.byte	81
+  73 002c 02       		.byte	2
+  74 002d 17       		.byte	23
   75 002e 01       		.byte	1
   76 002f 40       		.byte	64
-  77 0030 11       		.byte	17
-  78 0031 02       		.byte	2
-  79 0032 14       		.byte	20
-  80 0033 04       		.byte	4
-  81 0034 EE       		.byte	-18
-  82 0035 04       		.byte	4
-  83 0036 AB       		.byte	-85
-  84 0037 04       		.byte	4
-  85 0038 B4       		.byte	-76
-  86 0039 01       		.byte	1
-  87 003a 82       		.byte	-126
-  88 003b 01       		.byte	1
-  89 003c 88       		.byte	-120
-  90 003d 02       		.byte	2
-  91 003e B2       		.byte	-78
-  92 003f 01       		.byte	1
-  93 0040 B6       		.byte	-74
-  94 0041 02       		.byte	2
-  95 0042 BE       		.byte	-66
+  77 0030 07       		.byte	7
+  78 0031 40       		.byte	64
+  79 0032 01       		.byte	1
+  80 0033 40       		.byte	64
+  81 0034 08       		.byte	8
+  82 0035 41       		.byte	65
+  83 0036 01       		.byte	1
+  84 0037 40       		.byte	64
+  85 0038 0A       		.byte	10
+  86 0039 42       		.byte	66
+  87 003a 01       		.byte	1
+  88 003b 40       		.byte	64
+  89 003c 02       		.byte	2
+  90 003d 43       		.byte	67
+  91 003e 01       		.byte	1
+  92 003f 40       		.byte	64
+  93 0040 04       		.byte	4
+  94 0041 45       		.byte	69
+  95 0042 01       		.byte	1
   96 0043 40       		.byte	64
-  97 0044 D8       		.byte	-40
-  98 0045 04       		.byte	4
-  99 0046 DF       		.byte	-33
- 100 0047 01       		.byte	1
- 101 0048 00       		.byte	0
- 102 0049 11       		.byte	17
- 103 004a 18       		.byte	24
- 104 004b 10       		.byte	16
- 105 004c 1B       		.byte	27
- 106 004d 84       		.byte	-124
- 107 004e 8F       		.byte	-113
- 108 004f 80       		.byte	-128
- 109 0050 C0       		.byte	-64
- 110 0051 0A       		.byte	10
- 111 0052 33       		.byte	51
- 112 0053 80       		.byte	-128
- 113 0054 CC       		.byte	-52
- 114 0055 10       		.byte	16
-ARM GAS  C:\Users\Lenovo\AppData\Local\Temp\ccEY0dHu.s 			page 3
+  97 0044 03       		.byte	3
+  98 0045 46       		.byte	70
+  99 0046 01       		.byte	1
+ 100 0047 40       		.byte	64
+ 101 0048 03       		.byte	3
+ 102 0049 50       		.byte	80
+ 103 004a 01       		.byte	1
+ 104 004b 40       		.byte	64
+ 105 004c 01       		.byte	1
+ 106 004d 51       		.byte	81
+ 107 004e 01       		.byte	1
+ 108 004f 40       		.byte	64
+ 109 0050 01       		.byte	1
+ 110 0051 02       		.byte	2
+ 111 0052 11       		.byte	17
+ 112 0053 02       		.byte	2
+ 113 0054 14       		.byte	20
+ 114 0055 04       		.byte	4
+ARM GAS  C:\Users\Lenovo\AppData\Local\Temp\ccn6Avri.s 			page 3
 
 
- 115 0056 A7       		.byte	-89
- 116 0057 80       		.byte	-128
- 117 0058 AB       		.byte	-85
- 118 0059 80       		.byte	-128
- 119 005a EE       		.byte	-18
- 120 005b 20       		.byte	32
- 121 005c 02       		.byte	2
- 122 005d 04       		.byte	4
- 123 005e 53       		.byte	83
- 124 005f 01       		.byte	1
- 125 0060 8F       		.byte	-113
- 126 0061 01       		.byte	1
- 127 0062 C0       		.byte	-64
- 128 0063 02       		.byte	2
- 129 0064 D4       		.byte	-44
+ 115 0056 61       		.byte	97
+ 116 0057 04       		.byte	4
+ 117 0058 64       		.byte	100
+ 118 0059 08       		.byte	8
+ 119 005a 81       		.byte	-127
+ 120 005b 0F       		.byte	15
+ 121 005c 82       		.byte	-126
+ 122 005d 0F       		.byte	15
+ 123 005e 84       		.byte	-124
+ 124 005f 38       		.byte	56
+ 125 0060 86       		.byte	-122
+ 126 0061 72       		.byte	114
+ 127 0062 04       		.byte	4
+ 128 0063 D1       		.byte	-47
+ 129 0064 05       		.byte	5
  130 0065 01       		.byte	1
- 131 0066 E0       		.byte	-32
- 132 0067 02       		.byte	2
- 133 0068 B6       		.byte	-74
- 134 0069 04       		.byte	4
- 135 006a EE       		.byte	-18
- 136 006b 08       		.byte	8
- 137 006c 00       		.byte	0
- 138 006d 01       		.byte	1
- 139 006e 0E       		.byte	14
- 140 006f 01       		.byte	1
- 141 0070 00       		.byte	0
- 142 0071 03       		.byte	3
- 143 0072 00       		.byte	0
- 144 0073 00       		.byte	0
- 145 0074 00       		.byte	0
- 146 0075 0B       		.byte	11
- 147 0076 0B       		.byte	11
- 148 0077 00       		.byte	0
- 149 0078 00       		.byte	0
- 150 0079 00       		.byte	0
- 151 007a 00       		.byte	0
- 152 007b 00       		.byte	0
- 153 007c 04       		.byte	4
- 154 007d 00       		.byte	0
- 155 007e 00       		.byte	0
- 156 007f 06       		.byte	6
- 157 0080 02       		.byte	2
- 158 0081 00       		.byte	0
- 159 0082 02       		.byte	2
- 160 0083 00       		.byte	0
- 161 0084 00       		.byte	0
- 162 0085 00       		.byte	0
- 163 0086 00       		.byte	0
- 164 0087 00       		.byte	0
- 165              		.section	.cywolatch,"a",%progbits
- 166              		.align	2
- 167              		.type	cy_meta_wonvl, %object
- 168              		.size	cy_meta_wonvl, 4
- 169              	cy_meta_wonvl:
- 170 0000 BC       		.byte	-68
- 171 0001 90       		.byte	-112
-ARM GAS  C:\Users\Lenovo\AppData\Local\Temp\ccEY0dHu.s 			page 4
+ 131 0066 06       		.byte	6
+ 132 0067 0E       		.byte	14
+ 133 0068 07       		.byte	7
+ 134 0069 0E       		.byte	14
+ 135 006a 09       		.byte	9
+ 136 006b 0C       		.byte	12
+ 137 006c 0B       		.byte	11
+ 138 006d 03       		.byte	3
+ 139 006e 0C       		.byte	12
+ 140 006f 8C       		.byte	-116
+ 141 0070 0E       		.byte	14
+ 142 0071 13       		.byte	19
+ 143 0072 13       		.byte	19
+ 144 0073 03       		.byte	3
+ 145 0074 14       		.byte	20
+ 146 0075 D1       		.byte	-47
+ 147 0076 16       		.byte	22
+ 148 0077 06       		.byte	6
+ 149 0078 19       		.byte	25
+ 150 0079 01       		.byte	1
+ 151 007a 1A       		.byte	26
+ 152 007b 0C       		.byte	12
+ 153 007c 1B       		.byte	27
+ 154 007d 06       		.byte	6
+ 155 007e 1F       		.byte	31
+ 156 007f 08       		.byte	8
+ 157 0080 22       		.byte	34
+ 158 0081 08       		.byte	8
+ 159 0082 24       		.byte	36
+ 160 0083 20       		.byte	32
+ 161 0084 26       		.byte	38
+ 162 0085 43       		.byte	67
+ 163 0086 2B       		.byte	43
+ 164 0087 0C       		.byte	12
+ 165 0088 30       		.byte	48
+ 166 0089 0F       		.byte	15
+ 167 008a 32       		.byte	50
+ 168 008b 30       		.byte	48
+ 169 008c 34       		.byte	52
+ 170 008d C0       		.byte	-64
+ 171 008e 35       		.byte	53
+ARM GAS  C:\Users\Lenovo\AppData\Local\Temp\ccn6Avri.s 			page 4
 
 
- 172 0002 AC       		.byte	-84
- 173 0003 AF       		.byte	-81
- 174              		.section	.cycustnvl,"a",%progbits
- 175              		.align	2
- 176              		.type	cy_meta_custnvl, %object
- 177              		.size	cy_meta_custnvl, 4
- 178              	cy_meta_custnvl:
- 179 0000 00       		.byte	0
- 180 0001 00       		.byte	0
- 181 0002 40       		.byte	64
- 182 0003 05       		.byte	5
- 183              		.section	.cymeta,"a",%progbits
- 184              		.align	2
- 185              		.type	cy_metadata, %object
- 186              		.size	cy_metadata, 12
- 187              	cy_metadata:
- 188 0000 00       		.byte	0
- 189 0001 01       		.byte	1
- 190 0002 2E       		.byte	46
- 191 0003 16       		.byte	22
- 192 0004 10       		.byte	16
- 193 0005 69       		.byte	105
- 194 0006 00       		.byte	0
- 195 0007 01       		.byte	1
- 196 0008 00       		.byte	0
- 197 0009 00       		.byte	0
- 198 000a 00       		.byte	0
- 199 000b 00       		.byte	0
- 200              		.section	.cyflashprotect,"a",%progbits
- 201              		.align	2
- 202              		.type	cy_meta_flashprotect, %object
- 203              		.size	cy_meta_flashprotect, 256
- 204              	cy_meta_flashprotect:
- 205 0000 00000000 		.space	256
- 205      00000000 
- 205      00000000 
- 205      00000000 
- 205      00000000 
- 206              		.text
- 207              	.Letext0:
- 208              		.file 1 "c:\\program files (x86)\\cypress\\psoc creator\\4.2\\psoc creator\\import\\gnu\\arm\\5.4.
- 209              		.file 2 "c:\\program files (x86)\\cypress\\psoc creator\\4.2\\psoc creator\\import\\gnu\\arm\\5.4.
- 210              		.file 3 "Generated_Source\\PSoC5\\cymetadata.c"
- 211              		.section	.debug_info,"",%progbits
- 212              	.Ldebug_info0:
- 213 0000 30010000 		.4byte	0x130
- 214 0004 0400     		.2byte	0x4
- 215 0006 00000000 		.4byte	.Ldebug_abbrev0
- 216 000a 04       		.byte	0x4
- 217 000b 01       		.uleb128 0x1
- 218 000c 24000000 		.4byte	.LASF17
- 219 0010 0C       		.byte	0xc
- 220 0011 DB010000 		.4byte	.LASF18
- 221 0015 7E010000 		.4byte	.LASF19
- 222 0019 00000000 		.4byte	.Ldebug_line0
- 223 001d 02       		.uleb128 0x2
- 224 001e 01       		.byte	0x1
-ARM GAS  C:\Users\Lenovo\AppData\Local\Temp\ccEY0dHu.s 			page 5
+ 172 008f 0F       		.byte	15
+ 173 0090 38       		.byte	56
+ 174 0091 28       		.byte	40
+ 175 0092 3A       		.byte	58
+ 176 0093 02       		.byte	2
+ 177 0094 3B       		.byte	59
+ 178 0095 20       		.byte	32
+ 179 0096 3E       		.byte	62
+ 180 0097 10       		.byte	16
+ 181 0098 58       		.byte	88
+ 182 0099 04       		.byte	4
+ 183 009a 59       		.byte	89
+ 184 009b 04       		.byte	4
+ 185 009c 5C       		.byte	92
+ 186 009d 01       		.byte	1
+ 187 009e 5F       		.byte	95
+ 188 009f 01       		.byte	1
+ 189 00a0 81       		.byte	-127
+ 190 00a1 1C       		.byte	28
+ 191 00a2 82       		.byte	-126
+ 192 00a3 20       		.byte	32
+ 193 00a4 83       		.byte	-125
+ 194 00a5 22       		.byte	34
+ 195 00a6 85       		.byte	-123
+ 196 00a7 2C       		.byte	44
+ 197 00a8 87       		.byte	-121
+ 198 00a9 11       		.byte	17
+ 199 00aa 88       		.byte	-120
+ 200 00ab 03       		.byte	3
+ 201 00ac 8A       		.byte	-118
+ 202 00ad 1C       		.byte	28
+ 203 00ae 8B       		.byte	-117
+ 204 00af 20       		.byte	32
+ 205 00b0 8C       		.byte	-116
+ 206 00b1 2A       		.byte	42
+ 207 00b2 8E       		.byte	-114
+ 208 00b3 14       		.byte	20
+ 209 00b4 93       		.byte	-109
+ 210 00b5 03       		.byte	3
+ 211 00b6 94       		.byte	-108
+ 212 00b7 03       		.byte	3
+ 213 00b8 95       		.byte	-107
+ 214 00b9 09       		.byte	9
+ 215 00ba 96       		.byte	-106
+ 216 00bb 04       		.byte	4
+ 217 00bc 97       		.byte	-105
+ 218 00bd 10       		.byte	16
+ 219 00be 99       		.byte	-103
+ 220 00bf 14       		.byte	20
+ 221 00c0 9A       		.byte	-102
+ 222 00c1 28       		.byte	40
+ 223 00c2 9D       		.byte	-99
+ 224 00c3 10       		.byte	16
+ 225 00c4 A1       		.byte	-95
+ 226 00c5 40       		.byte	64
+ 227 00c6 A4       		.byte	-92
+ 228 00c7 03       		.byte	3
+ARM GAS  C:\Users\Lenovo\AppData\Local\Temp\ccn6Avri.s 			page 5
 
 
- 225 001f 06       		.byte	0x6
- 226 0020 72010000 		.4byte	.LASF0
- 227 0024 03       		.uleb128 0x3
- 228 0025 00000000 		.4byte	.LASF9
- 229 0029 01       		.byte	0x1
- 230 002a 1D       		.byte	0x1d
- 231 002b 2F000000 		.4byte	0x2f
- 232 002f 02       		.uleb128 0x2
- 233 0030 01       		.byte	0x1
- 234 0031 08       		.byte	0x8
- 235 0032 16000000 		.4byte	.LASF1
- 236 0036 02       		.uleb128 0x2
- 237 0037 02       		.byte	0x2
- 238 0038 05       		.byte	0x5
- 239 0039 5F010000 		.4byte	.LASF2
- 240 003d 02       		.uleb128 0x2
- 241 003e 02       		.byte	0x2
- 242 003f 07       		.byte	0x7
- 243 0040 C4000000 		.4byte	.LASF3
- 244 0044 02       		.uleb128 0x2
- 245 0045 04       		.byte	0x4
- 246 0046 05       		.byte	0x5
- 247 0047 69010000 		.4byte	.LASF4
- 248 004b 02       		.uleb128 0x2
- 249 004c 04       		.byte	0x4
- 250 004d 07       		.byte	0x7
- 251 004e B2000000 		.4byte	.LASF5
- 252 0052 02       		.uleb128 0x2
- 253 0053 08       		.byte	0x8
- 254 0054 05       		.byte	0x5
- 255 0055 51010000 		.4byte	.LASF6
- 256 0059 02       		.uleb128 0x2
- 257 005a 08       		.byte	0x8
- 258 005b 07       		.byte	0x7
- 259 005c 06010000 		.4byte	.LASF7
- 260 0060 04       		.uleb128 0x4
- 261 0061 04       		.byte	0x4
- 262 0062 05       		.byte	0x5
- 263 0063 696E7400 		.ascii	"int\000"
- 264 0067 02       		.uleb128 0x2
- 265 0068 04       		.byte	0x4
- 266 0069 07       		.byte	0x7
- 267 006a F9000000 		.4byte	.LASF8
- 268 006e 03       		.uleb128 0x3
- 269 006f 1D010000 		.4byte	.LASF10
- 270 0073 02       		.byte	0x2
- 271 0074 18       		.byte	0x18
- 272 0075 24000000 		.4byte	0x24
- 273 0079 05       		.uleb128 0x5
- 274 007a 90000000 		.4byte	0x90
- 275 007e 89000000 		.4byte	0x89
- 276 0082 06       		.uleb128 0x6
- 277 0083 89000000 		.4byte	0x89
- 278 0087 87       		.byte	0x87
- 279 0088 00       		.byte	0
- 280 0089 02       		.uleb128 0x2
- 281 008a 04       		.byte	0x4
-ARM GAS  C:\Users\Lenovo\AppData\Local\Temp\ccEY0dHu.s 			page 6
+ 229 00c8 A6       		.byte	-90
+ 230 00c9 34       		.byte	52
+ 231 00ca A7       		.byte	-89
+ 232 00cb 20       		.byte	32
+ 233 00cc A9       		.byte	-87
+ 234 00cd 30       		.byte	48
+ 235 00ce AA       		.byte	-86
+ 236 00cf 15       		.byte	21
+ 237 00d0 AB       		.byte	-85
+ 238 00d1 0C       		.byte	12
+ 239 00d2 B2       		.byte	-78
+ 240 00d3 0F       		.byte	15
+ 241 00d4 B3       		.byte	-77
+ 242 00d5 20       		.byte	32
+ 243 00d6 B4       		.byte	-76
+ 244 00d7 38       		.byte	56
+ 245 00d8 B5       		.byte	-75
+ 246 00d9 40       		.byte	64
+ 247 00da B7       		.byte	-73
+ 248 00db 1F       		.byte	31
+ 249 00dc BA       		.byte	-70
+ 250 00dd 28       		.byte	40
+ 251 00de BF       		.byte	-65
+ 252 00df 14       		.byte	20
+ 253 00e0 C0       		.byte	-64
+ 254 00e1 35       		.byte	53
+ 255 00e2 C1       		.byte	-63
+ 256 00e3 02       		.byte	2
+ 257 00e4 C5       		.byte	-59
+ 258 00e5 EB       		.byte	-21
+ 259 00e6 C6       		.byte	-58
+ 260 00e7 C0       		.byte	-64
+ 261 00e8 C8       		.byte	-56
+ 262 00e9 0B       		.byte	11
+ 263 00ea C9       		.byte	-55
+ 264 00eb FF       		.byte	-1
+ 265 00ec CA       		.byte	-54
+ 266 00ed FF       		.byte	-1
+ 267 00ee CB       		.byte	-53
+ 268 00ef FF       		.byte	-1
+ 269 00f0 CE       		.byte	-50
+ 270 00f1 F0       		.byte	-16
+ 271 00f2 CF       		.byte	-49
+ 272 00f3 44       		.byte	68
+ 273 00f4 D0       		.byte	-48
+ 274 00f5 0C       		.byte	12
+ 275 00f6 D4       		.byte	-44
+ 276 00f7 01       		.byte	1
+ 277 00f8 D6       		.byte	-42
+ 278 00f9 04       		.byte	4
+ 279 00fa D8       		.byte	-40
+ 280 00fb 04       		.byte	4
+ 281 00fc D9       		.byte	-39
+ 282 00fd 04       		.byte	4
+ 283 00fe DA       		.byte	-38
+ 284 00ff 04       		.byte	4
+ 285 0100 DB       		.byte	-37
+ARM GAS  C:\Users\Lenovo\AppData\Local\Temp\ccn6Avri.s 			page 6
 
 
- 282 008b 07       		.byte	0x7
- 283 008c 48010000 		.4byte	.LASF11
- 284 0090 07       		.uleb128 0x7
- 285 0091 6E000000 		.4byte	0x6e
- 286 0095 08       		.uleb128 0x8
- 287 0096 E7000000 		.4byte	.LASF12
- 288 009a 03       		.byte	0x3
- 289 009b 1F       		.byte	0x1f
- 290 009c A6000000 		.4byte	0xa6
- 291 00a0 05       		.uleb128 0x5
- 292 00a1 03       		.byte	0x3
- 293 00a2 00000000 		.4byte	cy_meta_configecc
- 294 00a6 07       		.uleb128 0x7
- 295 00a7 79000000 		.4byte	0x79
- 296 00ab 05       		.uleb128 0x5
- 297 00ac 90000000 		.4byte	0x90
- 298 00b0 BB000000 		.4byte	0xbb
- 299 00b4 06       		.uleb128 0x6
- 300 00b5 89000000 		.4byte	0x89
- 301 00b9 03       		.byte	0x3
- 302 00ba 00       		.byte	0
- 303 00bb 08       		.uleb128 0x8
- 304 00bc D7000000 		.4byte	.LASF13
- 305 00c0 03       		.byte	0x3
- 306 00c1 3D       		.byte	0x3d
- 307 00c2 CC000000 		.4byte	0xcc
- 308 00c6 05       		.uleb128 0x5
- 309 00c7 03       		.byte	0x3
- 310 00c8 00000000 		.4byte	cy_meta_custnvl
- 311 00cc 07       		.uleb128 0x7
- 312 00cd AB000000 		.4byte	0xab
- 313 00d1 08       		.uleb128 0x8
- 314 00d2 3A010000 		.4byte	.LASF14
- 315 00d6 03       		.byte	0x3
- 316 00d7 4B       		.byte	0x4b
- 317 00d8 E2000000 		.4byte	0xe2
- 318 00dc 05       		.uleb128 0x5
- 319 00dd 03       		.byte	0x3
- 320 00de 00000000 		.4byte	cy_meta_wonvl
- 321 00e2 07       		.uleb128 0x7
- 322 00e3 AB000000 		.4byte	0xab
- 323 00e7 05       		.uleb128 0x5
- 324 00e8 90000000 		.4byte	0x90
- 325 00ec F7000000 		.4byte	0xf7
- 326 00f0 06       		.uleb128 0x6
- 327 00f1 89000000 		.4byte	0x89
- 328 00f5 FF       		.byte	0xff
- 329 00f6 00       		.byte	0
- 330 00f7 08       		.uleb128 0x8
- 331 00f8 25010000 		.4byte	.LASF15
- 332 00fc 03       		.byte	0x3
- 333 00fd 59       		.byte	0x59
- 334 00fe 08010000 		.4byte	0x108
- 335 0102 05       		.uleb128 0x5
- 336 0103 03       		.byte	0x3
- 337 0104 00000000 		.4byte	cy_meta_flashprotect
- 338 0108 07       		.uleb128 0x7
-ARM GAS  C:\Users\Lenovo\AppData\Local\Temp\ccEY0dHu.s 			page 7
+ 286 0101 04       		.byte	4
+ 287 0102 DC       		.byte	-36
+ 288 0103 11       		.byte	17
+ 289 0104 DD       		.byte	-35
+ 290 0105 11       		.byte	17
+ 291 0106 DF       		.byte	-33
+ 292 0107 01       		.byte	1
+ 293 0108 E6       		.byte	-26
+ 294 0109 C0       		.byte	-64
+ 295 010a EA       		.byte	-22
+ 296 010b 40       		.byte	64
+ 297 010c EB       		.byte	-21
+ 298 010d 02       		.byte	2
+ 299 010e 00       		.byte	0
+ 300 010f 44       		.byte	68
+ 301 0110 02       		.byte	2
+ 302 0111 10       		.byte	16
+ 303 0112 04       		.byte	4
+ 304 0113 40       		.byte	64
+ 305 0114 06       		.byte	6
+ 306 0115 40       		.byte	64
+ 307 0116 07       		.byte	7
+ 308 0117 04       		.byte	4
+ 309 0118 08       		.byte	8
+ 310 0119 10       		.byte	16
+ 311 011a 09       		.byte	9
+ 312 011b 08       		.byte	8
+ 313 011c 0C       		.byte	12
+ 314 011d 10       		.byte	16
+ 315 011e 0E       		.byte	14
+ 316 011f 10       		.byte	16
+ 317 0120 0F       		.byte	15
+ 318 0121 28       		.byte	40
+ 319 0122 10       		.byte	16
+ 320 0123 20       		.byte	32
+ 321 0124 12       		.byte	18
+ 322 0125 C0       		.byte	-64
+ 323 0126 16       		.byte	22
+ 324 0127 18       		.byte	24
+ 325 0128 18       		.byte	24
+ 326 0129 40       		.byte	64
+ 327 012a 19       		.byte	25
+ 328 012b 24       		.byte	36
+ 329 012c 1B       		.byte	27
+ 330 012d 05       		.byte	5
+ 331 012e 1C       		.byte	28
+ 332 012f 04       		.byte	4
+ 333 0130 1D       		.byte	29
+ 334 0131 28       		.byte	40
+ 335 0132 1F       		.byte	31
+ 336 0133 08       		.byte	8
+ 337 0134 21       		.byte	33
+ 338 0135 10       		.byte	16
+ 339 0136 23       		.byte	35
+ 340 0137 04       		.byte	4
+ 341 0138 26       		.byte	38
+ 342 0139 08       		.byte	8
+ARM GAS  C:\Users\Lenovo\AppData\Local\Temp\ccn6Avri.s 			page 7
 
 
- 339 0109 E7000000 		.4byte	0xe7
- 340 010d 05       		.uleb128 0x5
- 341 010e 90000000 		.4byte	0x90
- 342 0112 1D010000 		.4byte	0x11d
- 343 0116 06       		.uleb128 0x6
- 344 0117 89000000 		.4byte	0x89
- 345 011b 0B       		.byte	0xb
- 346 011c 00       		.byte	0
- 347 011d 08       		.uleb128 0x8
- 348 011e 0A000000 		.4byte	.LASF16
- 349 0122 03       		.byte	0x3
- 350 0123 86       		.byte	0x86
- 351 0124 2E010000 		.4byte	0x12e
- 352 0128 05       		.uleb128 0x5
- 353 0129 03       		.byte	0x3
- 354 012a 00000000 		.4byte	cy_metadata
- 355 012e 07       		.uleb128 0x7
- 356 012f 0D010000 		.4byte	0x10d
- 357 0133 00       		.byte	0
- 358              		.section	.debug_abbrev,"",%progbits
- 359              	.Ldebug_abbrev0:
- 360 0000 01       		.uleb128 0x1
- 361 0001 11       		.uleb128 0x11
- 362 0002 01       		.byte	0x1
- 363 0003 25       		.uleb128 0x25
- 364 0004 0E       		.uleb128 0xe
- 365 0005 13       		.uleb128 0x13
- 366 0006 0B       		.uleb128 0xb
- 367 0007 03       		.uleb128 0x3
- 368 0008 0E       		.uleb128 0xe
- 369 0009 1B       		.uleb128 0x1b
- 370 000a 0E       		.uleb128 0xe
- 371 000b 10       		.uleb128 0x10
- 372 000c 17       		.uleb128 0x17
- 373 000d 00       		.byte	0
- 374 000e 00       		.byte	0
- 375 000f 02       		.uleb128 0x2
- 376 0010 24       		.uleb128 0x24
- 377 0011 00       		.byte	0
- 378 0012 0B       		.uleb128 0xb
- 379 0013 0B       		.uleb128 0xb
- 380 0014 3E       		.uleb128 0x3e
- 381 0015 0B       		.uleb128 0xb
- 382 0016 03       		.uleb128 0x3
- 383 0017 0E       		.uleb128 0xe
- 384 0018 00       		.byte	0
- 385 0019 00       		.byte	0
- 386 001a 03       		.uleb128 0x3
- 387 001b 16       		.uleb128 0x16
- 388 001c 00       		.byte	0
- 389 001d 03       		.uleb128 0x3
- 390 001e 0E       		.uleb128 0xe
- 391 001f 3A       		.uleb128 0x3a
- 392 0020 0B       		.uleb128 0xb
- 393 0021 3B       		.uleb128 0x3b
- 394 0022 0B       		.uleb128 0xb
- 395 0023 49       		.uleb128 0x49
-ARM GAS  C:\Users\Lenovo\AppData\Local\Temp\ccEY0dHu.s 			page 8
+ 343 013a 27       		.byte	39
+ 344 013b 0B       		.byte	11
+ 345 013c 29       		.byte	41
+ 346 013d 10       		.byte	16
+ 347 013e 2C       		.byte	44
+ 348 013f 20       		.byte	32
+ 349 0140 2D       		.byte	45
+ 350 0141 01       		.byte	1
+ 351 0142 2E       		.byte	46
+ 352 0143 08       		.byte	8
+ 353 0144 2F       		.byte	47
+ 354 0145 08       		.byte	8
+ 355 0146 30       		.byte	48
+ 356 0147 82       		.byte	-126
+ 357 0148 33       		.byte	51
+ 358 0149 10       		.byte	16
+ 359 014a 35       		.byte	53
+ 360 014b 04       		.byte	4
+ 361 014c 36       		.byte	54
+ 362 014d A0       		.byte	-96
+ 363 014e 37       		.byte	55
+ 364 014f 02       		.byte	2
+ 365 0150 39       		.byte	57
+ 366 0151 28       		.byte	40
+ 367 0152 3C       		.byte	60
+ 368 0153 04       		.byte	4
+ 369 0154 3F       		.byte	63
+ 370 0155 22       		.byte	34
+ 371 0156 45       		.byte	69
+ 372 0157 28       		.byte	40
+ 373 0158 47       		.byte	71
+ 374 0159 04       		.byte	4
+ 375 015a 4D       		.byte	77
+ 376 015b 01       		.byte	1
+ 377 015c 4E       		.byte	78
+ 378 015d 22       		.byte	34
+ 379 015e 57       		.byte	87
+ 380 015f 10       		.byte	16
+ 381 0160 5D       		.byte	93
+ 382 0161 01       		.byte	1
+ 383 0162 5E       		.byte	94
+ 384 0163 50       		.byte	80
+ 385 0164 5F       		.byte	95
+ 386 0165 08       		.byte	8
+ 387 0166 64       		.byte	100
+ 388 0167 40       		.byte	64
+ 389 0168 82       		.byte	-126
+ 390 0169 48       		.byte	72
+ 391 016a 84       		.byte	-124
+ 392 016b 60       		.byte	96
+ 393 016c 86       		.byte	-122
+ 394 016d 02       		.byte	2
+ 395 016e C0       		.byte	-64
+ 396 016f D5       		.byte	-43
+ 397 0170 C2       		.byte	-62
+ 398 0171 66       		.byte	102
+ 399 0172 C4       		.byte	-60
+ARM GAS  C:\Users\Lenovo\AppData\Local\Temp\ccn6Avri.s 			page 8
 
 
- 396 0024 13       		.uleb128 0x13
- 397 0025 00       		.byte	0
- 398 0026 00       		.byte	0
- 399 0027 04       		.uleb128 0x4
- 400 0028 24       		.uleb128 0x24
- 401 0029 00       		.byte	0
- 402 002a 0B       		.uleb128 0xb
- 403 002b 0B       		.uleb128 0xb
- 404 002c 3E       		.uleb128 0x3e
- 405 002d 0B       		.uleb128 0xb
- 406 002e 03       		.uleb128 0x3
- 407 002f 08       		.uleb128 0x8
- 408 0030 00       		.byte	0
- 409 0031 00       		.byte	0
- 410 0032 05       		.uleb128 0x5
- 411 0033 01       		.uleb128 0x1
- 412 0034 01       		.byte	0x1
- 413 0035 49       		.uleb128 0x49
- 414 0036 13       		.uleb128 0x13
- 415 0037 01       		.uleb128 0x1
- 416 0038 13       		.uleb128 0x13
- 417 0039 00       		.byte	0
- 418 003a 00       		.byte	0
- 419 003b 06       		.uleb128 0x6
- 420 003c 21       		.uleb128 0x21
- 421 003d 00       		.byte	0
- 422 003e 49       		.uleb128 0x49
- 423 003f 13       		.uleb128 0x13
- 424 0040 2F       		.uleb128 0x2f
- 425 0041 0B       		.uleb128 0xb
- 426 0042 00       		.byte	0
- 427 0043 00       		.byte	0
- 428 0044 07       		.uleb128 0x7
- 429 0045 26       		.uleb128 0x26
- 430 0046 00       		.byte	0
- 431 0047 49       		.uleb128 0x49
- 432 0048 13       		.uleb128 0x13
- 433 0049 00       		.byte	0
- 434 004a 00       		.byte	0
- 435 004b 08       		.uleb128 0x8
- 436 004c 34       		.uleb128 0x34
- 437 004d 00       		.byte	0
- 438 004e 03       		.uleb128 0x3
- 439 004f 0E       		.uleb128 0xe
- 440 0050 3A       		.uleb128 0x3a
- 441 0051 0B       		.uleb128 0xb
- 442 0052 3B       		.uleb128 0x3b
- 443 0053 0B       		.uleb128 0xb
- 444 0054 49       		.uleb128 0x49
- 445 0055 13       		.uleb128 0x13
- 446 0056 3F       		.uleb128 0x3f
- 447 0057 19       		.uleb128 0x19
- 448 0058 02       		.uleb128 0x2
- 449 0059 18       		.uleb128 0x18
- 450 005a 00       		.byte	0
- 451 005b 00       		.byte	0
- 452 005c 00       		.byte	0
-ARM GAS  C:\Users\Lenovo\AppData\Local\Temp\ccEY0dHu.s 			page 9
+ 400 0173 6C       		.byte	108
+ 401 0174 CA       		.byte	-54
+ 402 0175 E4       		.byte	-28
+ 403 0176 CC       		.byte	-52
+ 404 0177 FD       		.byte	-3
+ 405 0178 CE       		.byte	-50
+ 406 0179 E6       		.byte	-26
+ 407 017a D0       		.byte	-48
+ 408 017b 60       		.byte	96
+ 409 017c D2       		.byte	-46
+ 410 017d 10       		.byte	16
+ 411 017e D6       		.byte	-42
+ 412 017f F0       		.byte	-16
+ 413 0180 D8       		.byte	-40
+ 414 0181 80       		.byte	-128
+ 415 0182 00       		.byte	0
+ 416 0183 02       		.byte	2
+ 417 0184 02       		.byte	2
+ 418 0185 05       		.byte	5
+ 419 0186 04       		.byte	4
+ 420 0187 20       		.byte	32
+ 421 0188 05       		.byte	5
+ 422 0189 0A       		.byte	10
+ 423 018a 07       		.byte	7
+ 424 018b 24       		.byte	36
+ 425 018c 08       		.byte	8
+ 426 018d 1F       		.byte	31
+ 427 018e 09       		.byte	9
+ 428 018f 03       		.byte	3
+ 429 0190 0B       		.byte	11
+ 430 0191 24       		.byte	36
+ 431 0192 0C       		.byte	12
+ 432 0193 09       		.byte	9
+ 433 0194 0E       		.byte	14
+ 434 0195 12       		.byte	18
+ 435 0196 14       		.byte	20
+ 436 0197 1F       		.byte	31
+ 437 0198 15       		.byte	21
+ 438 0199 23       		.byte	35
+ 439 019a 17       		.byte	23
+ 440 019b 04       		.byte	4
+ 441 019c 19       		.byte	25
+ 442 019d 23       		.byte	35
+ 443 019e 1A       		.byte	26
+ 444 019f 20       		.byte	32
+ 445 01a0 1B       		.byte	27
+ 446 01a1 0C       		.byte	12
+ 447 01a2 1C       		.byte	28
+ 448 01a3 14       		.byte	20
+ 449 01a4 1E       		.byte	30
+ 450 01a5 0A       		.byte	10
+ 451 01a6 27       		.byte	39
+ 452 01a7 08       		.byte	8
+ 453 01a8 28       		.byte	40
+ 454 01a9 20       		.byte	32
+ 455 01aa 29       		.byte	41
+ 456 01ab 10       		.byte	16
+ARM GAS  C:\Users\Lenovo\AppData\Local\Temp\ccn6Avri.s 			page 9
 
 
- 453              		.section	.debug_aranges,"",%progbits
- 454 0000 14000000 		.4byte	0x14
- 455 0004 0200     		.2byte	0x2
- 456 0006 00000000 		.4byte	.Ldebug_info0
- 457 000a 04       		.byte	0x4
- 458 000b 00       		.byte	0
- 459 000c 0000     		.2byte	0
- 460 000e 0000     		.2byte	0
- 461 0010 00000000 		.4byte	0
- 462 0014 00000000 		.4byte	0
- 463              		.section	.debug_line,"",%progbits
- 464              	.Ldebug_line0:
- 465 0000 3D010000 		.section	.debug_str,"MS",%progbits,1
- 465      02003701 
- 465      00000201 
- 465      FB0E0D00 
- 465      01010101 
- 466              	.LASF9:
- 467 0000 5F5F7569 		.ascii	"__uint8_t\000"
- 467      6E74385F 
- 467      7400
- 468              	.LASF16:
- 469 000a 63795F6D 		.ascii	"cy_metadata\000"
- 469      65746164 
- 469      61746100 
- 470              	.LASF1:
- 471 0016 756E7369 		.ascii	"unsigned char\000"
- 471      676E6564 
- 471      20636861 
- 471      7200
- 472              	.LASF17:
- 473 0024 474E5520 		.ascii	"GNU C11 5.4.1 20160609 (release) [ARM/embedded-5-br"
- 473      43313120 
- 473      352E342E 
- 473      31203230 
- 473      31363036 
- 474 0057 616E6368 		.ascii	"anch revision 237715] -mcpu=cortex-m3 -mthumb -g -O"
- 474      20726576 
- 474      6973696F 
- 474      6E203233 
- 474      37373135 
- 475 008a 67202D66 		.ascii	"g -ffunction-sections -ffat-lto-objects\000"
- 475      66756E63 
- 475      74696F6E 
- 475      2D736563 
- 475      74696F6E 
- 476              	.LASF5:
- 477 00b2 6C6F6E67 		.ascii	"long unsigned int\000"
- 477      20756E73 
- 477      69676E65 
- 477      6420696E 
- 477      7400
- 478              	.LASF3:
- 479 00c4 73686F72 		.ascii	"short unsigned int\000"
- 479      7420756E 
- 479      7369676E 
- 479      65642069 
-ARM GAS  C:\Users\Lenovo\AppData\Local\Temp\ccEY0dHu.s 			page 10
+ 457 01ac 2C       		.byte	44
+ 458 01ad 40       		.byte	64
+ 459 01ae 2F       		.byte	47
+ 460 01af 25       		.byte	37
+ 461 01b0 30       		.byte	48
+ 462 01b1 07       		.byte	7
+ 463 01b2 33       		.byte	51
+ 464 01b3 0F       		.byte	15
+ 465 01b4 34       		.byte	52
+ 466 01b5 60       		.byte	96
+ 467 01b6 35       		.byte	53
+ 468 01b7 10       		.byte	16
+ 469 01b8 36       		.byte	54
+ 470 01b9 18       		.byte	24
+ 471 01ba 37       		.byte	55
+ 472 01bb 20       		.byte	32
+ 473 01bc 38       		.byte	56
+ 474 01bd 20       		.byte	32
+ 475 01be 3B       		.byte	59
+ 476 01bf 08       		.byte	8
+ 477 01c0 3F       		.byte	63
+ 478 01c1 50       		.byte	80
+ 479 01c2 40       		.byte	64
+ 480 01c3 25       		.byte	37
+ 481 01c4 41       		.byte	65
+ 482 01c5 03       		.byte	3
+ 483 01c6 46       		.byte	70
+ 484 01c7 C0       		.byte	-64
+ 485 01c8 47       		.byte	71
+ 486 01c9 BE       		.byte	-66
+ 487 01ca 48       		.byte	72
+ 488 01cb 38       		.byte	56
+ 489 01cc 49       		.byte	73
+ 490 01cd FF       		.byte	-1
+ 491 01ce 4A       		.byte	74
+ 492 01cf FF       		.byte	-1
+ 493 01d0 4B       		.byte	75
+ 494 01d1 FF       		.byte	-1
+ 495 01d2 4E       		.byte	78
+ 496 01d3 F0       		.byte	-16
+ 497 01d4 4F       		.byte	79
+ 498 01d5 44       		.byte	68
+ 499 01d6 50       		.byte	80
+ 500 01d7 0C       		.byte	12
+ 501 01d8 54       		.byte	84
+ 502 01d9 01       		.byte	1
+ 503 01da 56       		.byte	86
+ 504 01db 04       		.byte	4
+ 505 01dc 58       		.byte	88
+ 506 01dd 04       		.byte	4
+ 507 01de 59       		.byte	89
+ 508 01df 04       		.byte	4
+ 509 01e0 5A       		.byte	90
+ 510 01e1 04       		.byte	4
+ 511 01e2 5B       		.byte	91
+ 512 01e3 04       		.byte	4
+ 513 01e4 5F       		.byte	95
+ARM GAS  C:\Users\Lenovo\AppData\Local\Temp\ccn6Avri.s 			page 10
 
 
- 479      6E7400
- 480              	.LASF13:
- 481 00d7 63795F6D 		.ascii	"cy_meta_custnvl\000"
- 481      6574615F 
- 481      63757374 
- 481      6E766C00 
- 482              	.LASF12:
- 483 00e7 63795F6D 		.ascii	"cy_meta_configecc\000"
- 483      6574615F 
- 483      636F6E66 
- 483      69676563 
- 483      6300
- 484              	.LASF8:
- 485 00f9 756E7369 		.ascii	"unsigned int\000"
- 485      676E6564 
- 485      20696E74 
- 485      00
- 486              	.LASF7:
- 487 0106 6C6F6E67 		.ascii	"long long unsigned int\000"
- 487      206C6F6E 
- 487      6720756E 
- 487      7369676E 
- 487      65642069 
- 488              	.LASF10:
- 489 011d 75696E74 		.ascii	"uint8_t\000"
- 489      385F7400 
- 490              	.LASF15:
- 491 0125 63795F6D 		.ascii	"cy_meta_flashprotect\000"
- 491      6574615F 
- 491      666C6173 
- 491      6870726F 
- 491      74656374 
- 492              	.LASF14:
- 493 013a 63795F6D 		.ascii	"cy_meta_wonvl\000"
- 493      6574615F 
- 493      776F6E76 
- 493      6C00
- 494              	.LASF11:
- 495 0148 73697A65 		.ascii	"sizetype\000"
- 495      74797065 
- 495      00
- 496              	.LASF6:
- 497 0151 6C6F6E67 		.ascii	"long long int\000"
- 497      206C6F6E 
- 497      6720696E 
- 497      7400
- 498              	.LASF2:
- 499 015f 73686F72 		.ascii	"short int\000"
- 499      7420696E 
- 499      7400
- 500              	.LASF4:
- 501 0169 6C6F6E67 		.ascii	"long int\000"
- 501      20696E74 
- 501      00
- 502              	.LASF0:
- 503 0172 7369676E 		.ascii	"signed char\000"
- 503      65642063 
-ARM GAS  C:\Users\Lenovo\AppData\Local\Temp\ccEY0dHu.s 			page 11
+ 514 01e5 01       		.byte	1
+ 515 01e6 66       		.byte	102
+ 516 01e7 C0       		.byte	-64
+ 517 01e8 6A       		.byte	106
+ 518 01e9 40       		.byte	64
+ 519 01ea 6B       		.byte	107
+ 520 01eb 02       		.byte	2
+ 521 01ec 81       		.byte	-127
+ 522 01ed 14       		.byte	20
+ 523 01ee 85       		.byte	-123
+ 524 01ef 0C       		.byte	12
+ 525 01f0 86       		.byte	-122
+ 526 01f1 01       		.byte	1
+ 527 01f2 87       		.byte	-121
+ 528 01f3 71       		.byte	113
+ 529 01f4 89       		.byte	-119
+ 530 01f5 DC       		.byte	-36
+ 531 01f6 8B       		.byte	-117
+ 532 01f7 22       		.byte	34
+ 533 01f8 8F       		.byte	-113
+ 534 01f9 03       		.byte	3
+ 535 01fa 94       		.byte	-108
+ 536 01fb 02       		.byte	2
+ 537 01fc 99       		.byte	-103
+ 538 01fd 10       		.byte	16
+ 539 01fe 9B       		.byte	-101
+ 540 01ff AC       		.byte	-84
+ 541 0200 9D       		.byte	-99
+ 542 0201 10       		.byte	16
+ 543 0202 9F       		.byte	-97
+ 544 0203 40       		.byte	64
+ 545 0204 A9       		.byte	-87
+ 546 0205 09       		.byte	9
+ 547 0206 AB       		.byte	-85
+ 548 0207 D0       		.byte	-48
+ 549 0208 AF       		.byte	-81
+ 550 0209 20       		.byte	32
+ 551 020a B0       		.byte	-80
+ 552 020b 02       		.byte	2
+ 553 020c B1       		.byte	-79
+ 554 020d 1F       		.byte	31
+ 555 020e B2       		.byte	-78
+ 556 020f 01       		.byte	1
+ 557 0210 B3       		.byte	-77
+ 558 0211 E0       		.byte	-32
+ 559 0212 BB       		.byte	-69
+ 560 0213 08       		.byte	8
+ 561 0214 BE       		.byte	-66
+ 562 0215 01       		.byte	1
+ 563 0216 C0       		.byte	-64
+ 564 0217 06       		.byte	6
+ 565 0218 C6       		.byte	-58
+ 566 0219 04       		.byte	4
+ 567 021a C9       		.byte	-55
+ 568 021b FF       		.byte	-1
+ 569 021c CA       		.byte	-54
+ 570 021d 07       		.byte	7
+ARM GAS  C:\Users\Lenovo\AppData\Local\Temp\ccn6Avri.s 			page 11
 
 
- 503      68617200 
- 504              	.LASF19:
- 505 017e 433A5C55 		.ascii	"C:\\Users\\Lenovo\\Documents\\PSoC Creator\\Digital"
- 505      73657273 
- 505      5C4C656E 
- 505      6F766F5C 
- 505      446F6375 
- 506 01ac 5574696C 		.ascii	"UtilityExample01\\DigitalUtilityExample01.cydsn\000"
- 506      69747945 
- 506      78616D70 
- 506      6C653031 
- 506      5C446967 
- 507              	.LASF18:
- 508 01db 47656E65 		.ascii	"Generated_Source\\PSoC5\\cymetadata.c\000"
- 508      72617465 
- 508      645F536F 
- 508      75726365 
- 508      5C50536F 
- 509              		.ident	"GCC: (GNU Tools for ARM Embedded Processors) 5.4.1 20160609 (release) [ARM/embedded-5-bran
+ 571 021e CB       		.byte	-53
+ 572 021f FF       		.byte	-1
+ 573 0220 CC       		.byte	-52
+ 574 0221 40       		.byte	64
+ 575 0222 CD       		.byte	-51
+ 576 0223 20       		.byte	32
+ 577 0224 CE       		.byte	-50
+ 578 0225 F0       		.byte	-16
+ 579 0226 CF       		.byte	-49
+ 580 0227 05       		.byte	5
+ 581 0228 D0       		.byte	-48
+ 582 0229 08       		.byte	8
+ 583 022a D8       		.byte	-40
+ 584 022b 04       		.byte	4
+ 585 022c D9       		.byte	-39
+ 586 022d 04       		.byte	4
+ 587 022e DA       		.byte	-38
+ 588 022f 04       		.byte	4
+ 589 0230 DC       		.byte	-36
+ 590 0231 02       		.byte	2
+ 591 0232 DD       		.byte	-35
+ 592 0233 01       		.byte	1
+ 593 0234 DF       		.byte	-33
+ 594 0235 01       		.byte	1
+ 595 0236 E0       		.byte	-32
+ 596 0237 40       		.byte	64
+ 597 0238 E1       		.byte	-31
+ 598 0239 A8       		.byte	-88
+ 599 023a E2       		.byte	-30
+ 600 023b 40       		.byte	64
+ 601 023c E3       		.byte	-29
+ 602 023d 20       		.byte	32
+ 603 023e 00       		.byte	0
+ 604 023f 08       		.byte	8
+ 605 0240 04       		.byte	4
+ 606 0241 20       		.byte	32
+ 607 0242 05       		.byte	5
+ 608 0243 01       		.byte	1
+ 609 0244 07       		.byte	7
+ 610 0245 22       		.byte	34
+ 611 0246 0A       		.byte	10
+ 612 0247 20       		.byte	32
+ 613 0248 0E       		.byte	14
+ 614 0249 22       		.byte	34
+ 615 024a 0F       		.byte	15
+ 616 024b 04       		.byte	4
+ 617 024c 14       		.byte	20
+ 618 024d 01       		.byte	1
+ 619 024e 17       		.byte	23
+ 620 024f 10       		.byte	16
+ 621 0250 1A       		.byte	26
+ 622 0251 20       		.byte	32
+ 623 0252 1B       		.byte	27
+ 624 0253 01       		.byte	1
+ 625 0254 1D       		.byte	29
+ 626 0255 11       		.byte	17
+ 627 0256 1E       		.byte	30
+ARM GAS  C:\Users\Lenovo\AppData\Local\Temp\ccn6Avri.s 			page 12
+
+
+ 628 0257 02       		.byte	2
+ 629 0258 1F       		.byte	31
+ 630 0259 91       		.byte	-111
+ 631 025a 20       		.byte	32
+ 632 025b 40       		.byte	64
+ 633 025c 21       		.byte	33
+ 634 025d 0C       		.byte	12
+ 635 025e 22       		.byte	34
+ 636 025f 08       		.byte	8
+ 637 0260 23       		.byte	35
+ 638 0261 20       		.byte	32
+ 639 0262 26       		.byte	38
+ 640 0263 40       		.byte	64
+ 641 0264 27       		.byte	39
+ 642 0265 18       		.byte	24
+ 643 0266 28       		.byte	40
+ 644 0267 01       		.byte	1
+ 645 0268 29       		.byte	41
+ 646 0269 10       		.byte	16
+ 647 026a 2C       		.byte	44
+ 648 026b 03       		.byte	3
+ 649 026c 2F       		.byte	47
+ 650 026d 18       		.byte	24
+ 651 026e 30       		.byte	48
+ 652 026f 80       		.byte	-128
+ 653 0270 33       		.byte	51
+ 654 0271 10       		.byte	16
+ 655 0272 36       		.byte	54
+ 656 0273 08       		.byte	8
+ 657 0274 37       		.byte	55
+ 658 0275 10       		.byte	16
+ 659 0276 38       		.byte	56
+ 660 0277 40       		.byte	64
+ 661 0278 39       		.byte	57
+ 662 0279 28       		.byte	40
+ 663 027a 3A       		.byte	58
+ 664 027b 02       		.byte	2
+ 665 027c 3D       		.byte	61
+ 666 027d 10       		.byte	16
+ 667 027e 3F       		.byte	63
+ 668 027f 24       		.byte	36
+ 669 0280 45       		.byte	69
+ 670 0281 08       		.byte	8
+ 671 0282 47       		.byte	71
+ 672 0283 10       		.byte	16
+ 673 0284 48       		.byte	72
+ 674 0285 20       		.byte	32
+ 675 0286 49       		.byte	73
+ 676 0287 20       		.byte	32
+ 677 0288 4C       		.byte	76
+ 678 0289 02       		.byte	2
+ 679 028a 52       		.byte	82
+ 680 028b 80       		.byte	-128
+ 681 028c 56       		.byte	86
+ 682 028d 02       		.byte	2
+ 683 028e 57       		.byte	87
+ 684 028f 18       		.byte	24
+ARM GAS  C:\Users\Lenovo\AppData\Local\Temp\ccn6Avri.s 			page 13
+
+
+ 685 0290 5C       		.byte	92
+ 686 0291 02       		.byte	2
+ 687 0292 5D       		.byte	93
+ 688 0293 10       		.byte	16
+ 689 0294 5E       		.byte	94
+ 690 0295 80       		.byte	-128
+ 691 0296 5F       		.byte	95
+ 692 0297 08       		.byte	8
+ 693 0298 64       		.byte	100
+ 694 0299 80       		.byte	-128
+ 695 029a 82       		.byte	-126
+ 696 029b 10       		.byte	16
+ 697 029c 84       		.byte	-124
+ 698 029d 80       		.byte	-128
+ 699 029e 91       		.byte	-111
+ 700 029f 20       		.byte	32
+ 701 02a0 93       		.byte	-109
+ 702 02a1 04       		.byte	4
+ 703 02a2 95       		.byte	-107
+ 704 02a3 08       		.byte	8
+ 705 02a4 99       		.byte	-103
+ 706 02a5 20       		.byte	32
+ 707 02a6 9B       		.byte	-101
+ 708 02a7 01       		.byte	1
+ 709 02a8 9D       		.byte	-99
+ 710 02a9 10       		.byte	16
+ 711 02aa 9F       		.byte	-97
+ 712 02ab 10       		.byte	16
+ 713 02ac A4       		.byte	-92
+ 714 02ad A2       		.byte	-94
+ 715 02ae A6       		.byte	-90
+ 716 02af 80       		.byte	-128
+ 717 02b0 C0       		.byte	-64
+ 718 02b1 F4       		.byte	-12
+ 719 02b2 C2       		.byte	-62
+ 720 02b3 E4       		.byte	-28
+ 721 02b4 C4       		.byte	-60
+ 722 02b5 C0       		.byte	-64
+ 723 02b6 CA       		.byte	-54
+ 724 02b7 7C       		.byte	124
+ 725 02b8 CC       		.byte	-52
+ 726 02b9 6C       		.byte	108
+ 727 02ba CE       		.byte	-50
+ 728 02bb 6F       		.byte	111
+ 729 02bc D0       		.byte	-48
+ 730 02bd 60       		.byte	96
+ 731 02be D2       		.byte	-46
+ 732 02bf 14       		.byte	20
+ 733 02c0 D6       		.byte	-42
+ 734 02c1 F0       		.byte	-16
+ 735 02c2 D8       		.byte	-40
+ 736 02c3 80       		.byte	-128
+ 737 02c4 07       		.byte	7
+ 738 02c5 08       		.byte	8
+ 739 02c6 09       		.byte	9
+ 740 02c7 02       		.byte	2
+ 741 02c8 0D       		.byte	13
+ARM GAS  C:\Users\Lenovo\AppData\Local\Temp\ccn6Avri.s 			page 14
+
+
+ 742 02c9 04       		.byte	4
+ 743 02ca 13       		.byte	19
+ 744 02cb 01       		.byte	1
+ 745 02cc 15       		.byte	21
+ 746 02cd 03       		.byte	3
+ 747 02ce 19       		.byte	25
+ 748 02cf 03       		.byte	3
+ 749 02d0 2F       		.byte	47
+ 750 02d1 08       		.byte	8
+ 751 02d2 31       		.byte	49
+ 752 02d3 03       		.byte	3
+ 753 02d4 35       		.byte	53
+ 754 02d5 04       		.byte	4
+ 755 02d6 37       		.byte	55
+ 756 02d7 08       		.byte	8
+ 757 02d8 39       		.byte	57
+ 758 02d9 02       		.byte	2
+ 759 02da 3B       		.byte	59
+ 760 02db 08       		.byte	8
+ 761 02dc 3F       		.byte	63
+ 762 02dd 51       		.byte	81
+ 763 02de 40       		.byte	64
+ 764 02df 04       		.byte	4
+ 765 02e0 46       		.byte	70
+ 766 02e1 04       		.byte	4
+ 767 02e2 49       		.byte	73
+ 768 02e3 FF       		.byte	-1
+ 769 02e4 4A       		.byte	74
+ 770 02e5 07       		.byte	7
+ 771 02e6 4B       		.byte	75
+ 772 02e7 FF       		.byte	-1
+ 773 02e8 4C       		.byte	76
+ 774 02e9 40       		.byte	64
+ 775 02ea 4D       		.byte	77
+ 776 02eb 20       		.byte	32
+ 777 02ec 4E       		.byte	78
+ 778 02ed F0       		.byte	-16
+ 779 02ee 4F       		.byte	79
+ 780 02ef 05       		.byte	5
+ 781 02f0 50       		.byte	80
+ 782 02f1 08       		.byte	8
+ 783 02f2 54       		.byte	84
+ 784 02f3 18       		.byte	24
+ 785 02f4 56       		.byte	86
+ 786 02f5 04       		.byte	4
+ 787 02f6 59       		.byte	89
+ 788 02f7 04       		.byte	4
+ 789 02f8 5A       		.byte	90
+ 790 02f9 04       		.byte	4
+ 791 02fa 5B       		.byte	91
+ 792 02fb 04       		.byte	4
+ 793 02fc 5F       		.byte	95
+ 794 02fd 01       		.byte	1
+ 795 02fe 60       		.byte	96
+ 796 02ff 40       		.byte	64
+ 797 0300 61       		.byte	97
+ 798 0301 A8       		.byte	-88
+ARM GAS  C:\Users\Lenovo\AppData\Local\Temp\ccn6Avri.s 			page 15
+
+
+ 799 0302 62       		.byte	98
+ 800 0303 40       		.byte	64
+ 801 0304 63       		.byte	99
+ 802 0305 20       		.byte	32
+ 803 0306 80       		.byte	-128
+ 804 0307 C0       		.byte	-64
+ 805 0308 81       		.byte	-127
+ 806 0309 07       		.byte	7
+ 807 030a 84       		.byte	-124
+ 808 030b 30       		.byte	48
+ 809 030c 85       		.byte	-123
+ 810 030d 02       		.byte	2
+ 811 030e 88       		.byte	-120
+ 812 030f CE       		.byte	-50
+ 813 0310 89       		.byte	-119
+ 814 0311 06       		.byte	6
+ 815 0312 8A       		.byte	-118
+ 816 0313 30       		.byte	48
+ 817 0314 8B       		.byte	-117
+ 818 0315 01       		.byte	1
+ 819 0316 8C       		.byte	-116
+ 820 0317 48       		.byte	72
+ 821 0318 8D       		.byte	-115
+ 822 0319 04       		.byte	4
+ 823 031a 8E       		.byte	-114
+ 824 031b 01       		.byte	1
+ 825 031c 91       		.byte	-111
+ 826 031d 08       		.byte	8
+ 827 031e 92       		.byte	-110
+ 828 031f 08       		.byte	8
+ 829 0320 94       		.byte	-108
+ 830 0321 38       		.byte	56
+ 831 0322 95       		.byte	-107
+ 832 0323 01       		.byte	1
+ 833 0324 96       		.byte	-106
+ 834 0325 C2       		.byte	-62
+ 835 0326 97       		.byte	-105
+ 836 0327 06       		.byte	6
+ 837 0328 98       		.byte	-104
+ 838 0329 38       		.byte	56
+ 839 032a 99       		.byte	-103
+ 840 032b 06       		.byte	6
+ 841 032c 9A       		.byte	-102
+ 842 032d C4       		.byte	-60
+ 843 032e 9C       		.byte	-100
+ 844 032f 80       		.byte	-128
+ 845 0330 9F       		.byte	-97
+ 846 0331 01       		.byte	1
+ 847 0332 A0       		.byte	-96
+ 848 0333 20       		.byte	32
+ 849 0334 A1       		.byte	-95
+ 850 0335 07       		.byte	7
+ 851 0336 A4       		.byte	-92
+ 852 0337 FE       		.byte	-2
+ 853 0338 A5       		.byte	-91
+ 854 0339 10       		.byte	16
+ 855 033a A8       		.byte	-88
+ARM GAS  C:\Users\Lenovo\AppData\Local\Temp\ccn6Avri.s 			page 16
+
+
+ 856 033b 10       		.byte	16
+ 857 033c A9       		.byte	-87
+ 858 033d 10       		.byte	16
+ 859 033e AD       		.byte	-83
+ 860 033f 10       		.byte	16
+ 861 0340 AE       		.byte	-82
+ 862 0341 C6       		.byte	-58
+ 863 0342 B0       		.byte	-80
+ 864 0343 01       		.byte	1
+ 865 0344 B1       		.byte	-79
+ 866 0345 10       		.byte	16
+ 867 0346 B3       		.byte	-77
+ 868 0347 08       		.byte	8
+ 869 0348 B4       		.byte	-76
+ 870 0349 3E       		.byte	62
+ 871 034a B5       		.byte	-75
+ 872 034b 07       		.byte	7
+ 873 034c B6       		.byte	-74
+ 874 034d C0       		.byte	-64
+ 875 034e BA       		.byte	-70
+ 876 034f 20       		.byte	32
+ 877 0350 BF       		.byte	-65
+ 878 0351 04       		.byte	4
+ 879 0352 D8       		.byte	-40
+ 880 0353 04       		.byte	4
+ 881 0354 D9       		.byte	-39
+ 882 0355 04       		.byte	4
+ 883 0356 DF       		.byte	-33
+ 884 0357 01       		.byte	1
+ 885 0358 05       		.byte	5
+ 886 0359 01       		.byte	1
+ 887 035a 07       		.byte	7
+ 888 035b 26       		.byte	38
+ 889 035c 0E       		.byte	14
+ 890 035d 86       		.byte	-122
+ 891 035e 0F       		.byte	15
+ 892 035f 10       		.byte	16
+ 893 0360 15       		.byte	21
+ 894 0361 08       		.byte	8
+ 895 0362 16       		.byte	22
+ 896 0363 88       		.byte	-120
+ 897 0364 17       		.byte	23
+ 898 0365 40       		.byte	64
+ 899 0366 1D       		.byte	29
+ 900 0367 10       		.byte	16
+ 901 0368 1E       		.byte	30
+ 902 0369 85       		.byte	-123
+ 903 036a 20       		.byte	32
+ 904 036b 08       		.byte	8
+ 905 036c 21       		.byte	33
+ 906 036d 06       		.byte	6
+ 907 036e 22       		.byte	34
+ 908 036f 88       		.byte	-120
+ 909 0370 24       		.byte	36
+ 910 0371 18       		.byte	24
+ 911 0372 26       		.byte	38
+ 912 0373 02       		.byte	2
+ARM GAS  C:\Users\Lenovo\AppData\Local\Temp\ccn6Avri.s 			page 17
+
+
+ 913 0374 27       		.byte	39
+ 914 0375 40       		.byte	64
+ 915 0376 2B       		.byte	43
+ 916 0377 01       		.byte	1
+ 917 0378 2D       		.byte	45
+ 918 0379 02       		.byte	2
+ 919 037a 2E       		.byte	46
+ 920 037b 40       		.byte	64
+ 921 037c 2F       		.byte	47
+ 922 037d 28       		.byte	40
+ 923 037e 30       		.byte	48
+ 924 037f 02       		.byte	2
+ 925 0380 31       		.byte	49
+ 926 0381 08       		.byte	8
+ 927 0382 33       		.byte	51
+ 928 0383 10       		.byte	16
+ 929 0384 37       		.byte	55
+ 930 0385 65       		.byte	101
+ 931 0386 38       		.byte	56
+ 932 0387 48       		.byte	72
+ 933 0388 39       		.byte	57
+ 934 0389 20       		.byte	32
+ 935 038a 3C       		.byte	60
+ 936 038b 80       		.byte	-128
+ 937 038c 3D       		.byte	61
+ 938 038d 01       		.byte	1
+ 939 038e 3E       		.byte	62
+ 940 038f 88       		.byte	-120
+ 941 0390 3F       		.byte	63
+ 942 0391 10       		.byte	16
+ 943 0392 41       		.byte	65
+ 944 0393 02       		.byte	2
+ 945 0394 50       		.byte	80
+ 946 0395 82       		.byte	-126
+ 947 0396 5A       		.byte	90
+ 948 0397 01       		.byte	1
+ 949 0398 60       		.byte	96
+ 950 0399 04       		.byte	4
+ 951 039a 62       		.byte	98
+ 952 039b 80       		.byte	-128
+ 953 039c 63       		.byte	99
+ 954 039d 40       		.byte	64
+ 955 039e 80       		.byte	-128
+ 956 039f 10       		.byte	16
+ 957 03a0 81       		.byte	-127
+ 958 03a1 12       		.byte	18
+ 959 03a2 85       		.byte	-123
+ 960 03a3 01       		.byte	1
+ 961 03a4 86       		.byte	-122
+ 962 03a5 08       		.byte	8
+ 963 03a6 87       		.byte	-121
+ 964 03a7 40       		.byte	64
+ 965 03a8 88       		.byte	-120
+ 966 03a9 04       		.byte	4
+ 967 03aa 8C       		.byte	-116
+ 968 03ab 04       		.byte	4
+ 969 03ac 8D       		.byte	-115
+ARM GAS  C:\Users\Lenovo\AppData\Local\Temp\ccn6Avri.s 			page 18
+
+
+ 970 03ad 01       		.byte	1
+ 971 03ae 90       		.byte	-112
+ 972 03af 40       		.byte	64
+ 973 03b0 91       		.byte	-111
+ 974 03b1 20       		.byte	32
+ 975 03b2 93       		.byte	-109
+ 976 03b3 02       		.byte	2
+ 977 03b4 94       		.byte	-108
+ 978 03b5 20       		.byte	32
+ 979 03b6 99       		.byte	-103
+ 980 03b7 01       		.byte	1
+ 981 03b8 9B       		.byte	-101
+ 982 03b9 11       		.byte	17
+ 983 03ba 9F       		.byte	-97
+ 984 03bb 02       		.byte	2
+ 985 03bc A1       		.byte	-95
+ 986 03bd 08       		.byte	8
+ 987 03be A2       		.byte	-94
+ 988 03bf 01       		.byte	1
+ 989 03c0 A3       		.byte	-93
+ 990 03c1 80       		.byte	-128
+ 991 03c2 A4       		.byte	-92
+ 992 03c3 82       		.byte	-126
+ 993 03c4 A6       		.byte	-90
+ 994 03c5 10       		.byte	16
+ 995 03c6 A8       		.byte	-88
+ 996 03c7 02       		.byte	2
+ 997 03c8 AB       		.byte	-85
+ 998 03c9 08       		.byte	8
+ 999 03ca AF       		.byte	-81
+ 1000 03cb 01       		.byte	1
+ 1001 03cc B0       		.byte	-80
+ 1002 03cd 04       		.byte	4
+ 1003 03ce C0       		.byte	-64
+ 1004 03cf F0       		.byte	-16
+ 1005 03d0 C2       		.byte	-62
+ 1006 03d1 F0       		.byte	-16
+ 1007 03d2 C4       		.byte	-60
+ 1008 03d3 F0       		.byte	-16
+ 1009 03d4 CA       		.byte	-54
+ 1010 03d5 F8       		.byte	-8
+ 1011 03d6 CC       		.byte	-52
+ 1012 03d7 F7       		.byte	-9
+ 1013 03d8 CE       		.byte	-50
+ 1014 03d9 FE       		.byte	-2
+ 1015 03da D0       		.byte	-48
+ 1016 03db 01       		.byte	1
+ 1017 03dc D6       		.byte	-42
+ 1018 03dd 01       		.byte	1
+ 1019 03de D8       		.byte	-40
+ 1020 03df 0D       		.byte	13
+ 1021 03e0 E2       		.byte	-30
+ 1022 03e1 20       		.byte	32
+ 1023 03e2 EC       		.byte	-20
+ 1024 03e3 08       		.byte	8
+ 1025 03e4 02       		.byte	2
+ 1026 03e5 01       		.byte	1
+ARM GAS  C:\Users\Lenovo\AppData\Local\Temp\ccn6Avri.s 			page 19
+
+
+ 1027 03e6 04       		.byte	4
+ 1028 03e7 01       		.byte	1
+ 1029 03e8 05       		.byte	5
+ 1030 03e9 04       		.byte	4
+ 1031 03ea 06       		.byte	6
+ 1032 03eb 06       		.byte	6
+ 1033 03ec 08       		.byte	8
+ 1034 03ed 06       		.byte	6
+ 1035 03ee 09       		.byte	9
+ 1036 03ef 01       		.byte	1
+ 1037 03f0 0A       		.byte	10
+ 1038 03f1 01       		.byte	1
+ 1039 03f2 0B       		.byte	11
+ 1040 03f3 10       		.byte	16
+ 1041 03f4 0C       		.byte	12
+ 1042 03f5 04       		.byte	4
+ 1043 03f6 0D       		.byte	13
+ 1044 03f7 0C       		.byte	12
+ 1045 03f8 0F       		.byte	15
+ 1046 03f9 03       		.byte	3
+ 1047 03fa 13       		.byte	19
+ 1048 03fb 03       		.byte	3
+ 1049 03fc 14       		.byte	20
+ 1050 03fd 07       		.byte	7
+ 1051 03fe 15       		.byte	21
+ 1052 03ff 03       		.byte	3
+ 1053 0400 17       		.byte	23
+ 1054 0401 0C       		.byte	12
+ 1055 0402 18       		.byte	24
+ 1056 0403 06       		.byte	6
+ 1057 0404 19       		.byte	25
+ 1058 0405 0C       		.byte	12
+ 1059 0406 1A       		.byte	26
+ 1060 0407 01       		.byte	1
+ 1061 0408 1D       		.byte	29
+ 1062 0409 08       		.byte	8
+ 1063 040a 21       		.byte	33
+ 1064 040b 02       		.byte	2
+ 1065 040c 23       		.byte	35
+ 1066 040d 10       		.byte	16
+ 1067 040e 24       		.byte	36
+ 1068 040f 02       		.byte	2
+ 1069 0410 25       		.byte	37
+ 1070 0411 0F       		.byte	15
+ 1071 0412 28       		.byte	40
+ 1072 0413 06       		.byte	6
+ 1073 0414 29       		.byte	41
+ 1074 0415 0F       		.byte	15
+ 1075 0416 2D       		.byte	45
+ 1076 0417 03       		.byte	3
+ 1077 0418 2F       		.byte	47
+ 1078 0419 20       		.byte	32
+ 1079 041a 31       		.byte	49
+ 1080 041b 30       		.byte	48
+ 1081 041c 34       		.byte	52
+ 1082 041d 07       		.byte	7
+ 1083 041e 35       		.byte	53
+ARM GAS  C:\Users\Lenovo\AppData\Local\Temp\ccn6Avri.s 			page 20
+
+
+ 1084 041f 0F       		.byte	15
+ 1085 0420 3A       		.byte	58
+ 1086 0421 20       		.byte	32
+ 1087 0422 3B       		.byte	59
+ 1088 0423 20       		.byte	32
+ 1089 0424 3F       		.byte	63
+ 1090 0425 01       		.byte	1
+ 1091 0426 40       		.byte	64
+ 1092 0427 65       		.byte	101
+ 1093 0428 41       		.byte	65
+ 1094 0429 02       		.byte	2
+ 1095 042a 42       		.byte	66
+ 1096 042b 04       		.byte	4
+ 1097 042c 44       		.byte	68
+ 1098 042d 01       		.byte	1
+ 1099 042e 45       		.byte	69
+ 1100 042f E0       		.byte	-32
+ 1101 0430 47       		.byte	71
+ 1102 0431 C0       		.byte	-64
+ 1103 0432 48       		.byte	72
+ 1104 0433 22       		.byte	34
+ 1105 0434 49       		.byte	73
+ 1106 0435 FF       		.byte	-1
+ 1107 0436 4A       		.byte	74
+ 1108 0437 FF       		.byte	-1
+ 1109 0438 4B       		.byte	75
+ 1110 0439 FF       		.byte	-1
+ 1111 043a 4C       		.byte	76
+ 1112 043b 62       		.byte	98
+ 1113 043c 4D       		.byte	77
+ 1114 043d A0       		.byte	-96
+ 1115 043e 4E       		.byte	78
+ 1116 043f F0       		.byte	-16
+ 1117 0440 4F       		.byte	79
+ 1118 0441 41       		.byte	65
+ 1119 0442 50       		.byte	80
+ 1120 0443 0C       		.byte	12
+ 1121 0444 56       		.byte	86
+ 1122 0445 02       		.byte	2
+ 1123 0446 57       		.byte	87
+ 1124 0447 13       		.byte	19
+ 1125 0448 58       		.byte	88
+ 1126 0449 04       		.byte	4
+ 1127 044a 59       		.byte	89
+ 1128 044b 04       		.byte	4
+ 1129 044c 5A       		.byte	90
+ 1130 044d 04       		.byte	4
+ 1131 044e 5B       		.byte	91
+ 1132 044f 04       		.byte	4
+ 1133 0450 5F       		.byte	95
+ 1134 0451 01       		.byte	1
+ 1135 0452 66       		.byte	102
+ 1136 0453 40       		.byte	64
+ 1137 0454 67       		.byte	103
+ 1138 0455 02       		.byte	2
+ 1139 0456 69       		.byte	105
+ 1140 0457 10       		.byte	16
+ARM GAS  C:\Users\Lenovo\AppData\Local\Temp\ccn6Avri.s 			page 21
+
+
+ 1141 0458 6A       		.byte	106
+ 1142 0459 30       		.byte	48
+ 1143 045a 6B       		.byte	107
+ 1144 045b 10       		.byte	16
+ 1145 045c 6D       		.byte	109
+ 1146 045d 10       		.byte	16
+ 1147 045e 6E       		.byte	110
+ 1148 045f 10       		.byte	16
+ 1149 0460 6F       		.byte	111
+ 1150 0461 12       		.byte	18
+ 1151 0462 85       		.byte	-123
+ 1152 0463 01       		.byte	1
+ 1153 0464 89       		.byte	-119
+ 1154 0465 01       		.byte	1
+ 1155 0466 8A       		.byte	-118
+ 1156 0467 01       		.byte	1
+ 1157 0468 95       		.byte	-107
+ 1158 0469 01       		.byte	1
+ 1159 046a 96       		.byte	-106
+ 1160 046b 02       		.byte	2
+ 1161 046c 98       		.byte	-104
+ 1162 046d 02       		.byte	2
+ 1163 046e 99       		.byte	-103
+ 1164 046f 01       		.byte	1
+ 1165 0470 A2       		.byte	-94
+ 1166 0471 01       		.byte	1
+ 1167 0472 A6       		.byte	-90
+ 1168 0473 02       		.byte	2
+ 1169 0474 A8       		.byte	-88
+ 1170 0475 02       		.byte	2
+ 1171 0476 B2       		.byte	-78
+ 1172 0477 02       		.byte	2
+ 1173 0478 B4       		.byte	-76
+ 1174 0479 01       		.byte	1
+ 1175 047a B7       		.byte	-73
+ 1176 047b 01       		.byte	1
+ 1177 047c B8       		.byte	-72
+ 1178 047d 08       		.byte	8
+ 1179 047e BE       		.byte	-66
+ 1180 047f 10       		.byte	16
+ 1181 0480 BF       		.byte	-65
+ 1182 0481 40       		.byte	64
+ 1183 0482 D8       		.byte	-40
+ 1184 0483 04       		.byte	4
+ 1185 0484 D9       		.byte	-39
+ 1186 0485 04       		.byte	4
+ 1187 0486 DF       		.byte	-33
+ 1188 0487 01       		.byte	1
+ 1189 0488 00       		.byte	0
+ 1190 0489 10       		.byte	16
+ 1191 048a 04       		.byte	4
+ 1192 048b 0A       		.byte	10
+ 1193 048c 05       		.byte	5
+ 1194 048d 10       		.byte	16
+ 1195 048e 07       		.byte	7
+ 1196 048f 01       		.byte	1
+ 1197 0490 09       		.byte	9
+ARM GAS  C:\Users\Lenovo\AppData\Local\Temp\ccn6Avri.s 			page 22
+
+
+ 1198 0491 10       		.byte	16
+ 1199 0492 0B       		.byte	11
+ 1200 0493 20       		.byte	32
+ 1201 0494 0D       		.byte	13
+ 1202 0495 04       		.byte	4
+ 1203 0496 0E       		.byte	14
+ 1204 0497 04       		.byte	4
+ 1205 0498 10       		.byte	16
+ 1206 0499 90       		.byte	-112
+ 1207 049a 12       		.byte	18
+ 1208 049b 04       		.byte	4
+ 1209 049c 17       		.byte	23
+ 1210 049d 28       		.byte	40
+ 1211 049e 18       		.byte	24
+ 1212 049f 14       		.byte	20
+ 1213 04a0 1E       		.byte	30
+ 1214 04a1 04       		.byte	4
+ 1215 04a2 1F       		.byte	31
+ 1216 04a3 10       		.byte	16
+ 1217 04a4 23       		.byte	35
+ 1218 04a5 01       		.byte	1
+ 1219 04a6 24       		.byte	36
+ 1220 04a7 08       		.byte	8
+ 1221 04a8 25       		.byte	37
+ 1222 04a9 10       		.byte	16
+ 1223 04aa 27       		.byte	39
+ 1224 04ab 44       		.byte	68
+ 1225 04ac 2F       		.byte	47
+ 1226 04ad 95       		.byte	-107
+ 1227 04ae 30       		.byte	48
+ 1228 04af 10       		.byte	16
+ 1229 04b0 31       		.byte	49
+ 1230 04b1 10       		.byte	16
+ 1231 04b2 33       		.byte	51
+ 1232 04b3 04       		.byte	4
+ 1233 04b4 35       		.byte	53
+ 1234 04b5 40       		.byte	64
+ 1235 04b6 36       		.byte	54
+ 1236 04b7 02       		.byte	2
+ 1237 04b8 37       		.byte	55
+ 1238 04b9 24       		.byte	36
+ 1239 04ba 39       		.byte	57
+ 1240 04bb 08       		.byte	8
+ 1241 04bc 3A       		.byte	58
+ 1242 04bd 04       		.byte	4
+ 1243 04be 3B       		.byte	59
+ 1244 04bf 38       		.byte	56
+ 1245 04c0 3C       		.byte	60
+ 1246 04c1 40       		.byte	64
+ 1247 04c2 3E       		.byte	62
+ 1248 04c3 08       		.byte	8
+ 1249 04c4 3F       		.byte	63
+ 1250 04c5 20       		.byte	32
+ 1251 04c6 45       		.byte	69
+ 1252 04c7 01       		.byte	1
+ 1253 04c8 46       		.byte	70
+ 1254 04c9 04       		.byte	4
+ARM GAS  C:\Users\Lenovo\AppData\Local\Temp\ccn6Avri.s 			page 23
+
+
+ 1255 04ca 47       		.byte	71
+ 1256 04cb 40       		.byte	64
+ 1257 04cc 4C       		.byte	76
+ 1258 04cd 85       		.byte	-123
+ 1259 04ce 4E       		.byte	78
+ 1260 04cf 02       		.byte	2
+ 1261 04d0 57       		.byte	87
+ 1262 04d1 01       		.byte	1
+ 1263 04d2 5F       		.byte	95
+ 1264 04d3 01       		.byte	1
+ 1265 04d4 6C       		.byte	108
+ 1266 04d5 10       		.byte	16
+ 1267 04d6 6E       		.byte	110
+ 1268 04d7 60       		.byte	96
+ 1269 04d8 6F       		.byte	111
+ 1270 04d9 28       		.byte	40
+ 1271 04da 74       		.byte	116
+ 1272 04db 40       		.byte	64
+ 1273 04dc 75       		.byte	117
+ 1274 04dd 40       		.byte	64
+ 1275 04de 76       		.byte	118
+ 1276 04df 08       		.byte	8
+ 1277 04e0 77       		.byte	119
+ 1278 04e1 29       		.byte	41
+ 1279 04e2 91       		.byte	-111
+ 1280 04e3 08       		.byte	8
+ 1281 04e4 93       		.byte	-109
+ 1282 04e5 02       		.byte	2
+ 1283 04e6 94       		.byte	-108
+ 1284 04e7 24       		.byte	36
+ 1285 04e8 96       		.byte	-106
+ 1286 04e9 40       		.byte	64
+ 1287 04ea 97       		.byte	-105
+ 1288 04eb 10       		.byte	16
+ 1289 04ec 99       		.byte	-103
+ 1290 04ed 10       		.byte	16
+ 1291 04ee 9E       		.byte	-98
+ 1292 04ef 08       		.byte	8
+ 1293 04f0 9F       		.byte	-97
+ 1294 04f1 24       		.byte	36
+ 1295 04f2 A1       		.byte	-95
+ 1296 04f3 01       		.byte	1
+ 1297 04f4 A2       		.byte	-94
+ 1298 04f5 02       		.byte	2
+ 1299 04f6 A3       		.byte	-93
+ 1300 04f7 90       		.byte	-112
+ 1301 04f8 A4       		.byte	-92
+ 1302 04f9 40       		.byte	64
+ 1303 04fa A6       		.byte	-90
+ 1304 04fb 10       		.byte	16
+ 1305 04fc A7       		.byte	-89
+ 1306 04fd 29       		.byte	41
+ 1307 04fe AB       		.byte	-85
+ 1308 04ff 12       		.byte	18
+ 1309 0500 C0       		.byte	-64
+ 1310 0501 F2       		.byte	-14
+ 1311 0502 C2       		.byte	-62
+ARM GAS  C:\Users\Lenovo\AppData\Local\Temp\ccn6Avri.s 			page 24
+
+
+ 1312 0503 66       		.byte	102
+ 1313 0504 C4       		.byte	-60
+ 1314 0505 6E       		.byte	110
+ 1315 0506 CA       		.byte	-54
+ 1316 0507 F0       		.byte	-16
+ 1317 0508 CC       		.byte	-52
+ 1318 0509 F6       		.byte	-10
+ 1319 050a CE       		.byte	-50
+ 1320 050b 76       		.byte	118
+ 1321 050c D0       		.byte	-48
+ 1322 050d B0       		.byte	-80
+ 1323 050e D2       		.byte	-46
+ 1324 050f 30       		.byte	48
+ 1325 0510 D6       		.byte	-42
+ 1326 0511 80       		.byte	-128
+ 1327 0512 EA       		.byte	-22
+ 1328 0513 20       		.byte	32
+ 1329 0514 EC       		.byte	-20
+ 1330 0515 08       		.byte	8
+ 1331 0516 A8       		.byte	-88
+ 1332 0517 40       		.byte	64
+ 1333 0518 A9       		.byte	-87
+ 1334 0519 10       		.byte	16
+ 1335 051a 31       		.byte	49
+ 1336 051b 40       		.byte	64
+ 1337 051c 33       		.byte	51
+ 1338 051d 08       		.byte	8
+ 1339 051e 34       		.byte	52
+ 1340 051f 08       		.byte	8
+ 1341 0520 36       		.byte	54
+ 1342 0521 40       		.byte	64
+ 1343 0522 85       		.byte	-123
+ 1344 0523 40       		.byte	64
+ 1345 0524 CC       		.byte	-52
+ 1346 0525 F0       		.byte	-16
+ 1347 0526 E6       		.byte	-26
+ 1348 0527 10       		.byte	16
+ 1349 0528 5A       		.byte	90
+ 1350 0529 80       		.byte	-128
+ 1351 052a 80       		.byte	-128
+ 1352 052b 08       		.byte	8
+ 1353 052c 87       		.byte	-121
+ 1354 052d 08       		.byte	8
+ 1355 052e 9C       		.byte	-100
+ 1356 052f 08       		.byte	8
+ 1357 0530 A6       		.byte	-90
+ 1358 0531 40       		.byte	64
+ 1359 0532 A7       		.byte	-89
+ 1360 0533 08       		.byte	8
+ 1361 0534 D4       		.byte	-44
+ 1362 0535 80       		.byte	-128
+ 1363 0536 E6       		.byte	-26
+ 1364 0537 60       		.byte	96
+ 1365 0538 07       		.byte	7
+ 1366 0539 40       		.byte	64
+ 1367 053a 52       		.byte	82
+ 1368 053b 20       		.byte	32
+ARM GAS  C:\Users\Lenovo\AppData\Local\Temp\ccn6Avri.s 			page 25
+
+
+ 1369 053c 82       		.byte	-126
+ 1370 053d 40       		.byte	64
+ 1371 053e 86       		.byte	-122
+ 1372 053f 40       		.byte	64
+ 1373 0540 8A       		.byte	-118
+ 1374 0541 20       		.byte	32
+ 1375 0542 96       		.byte	-106
+ 1376 0543 80       		.byte	-128
+ 1377 0544 A6       		.byte	-90
+ 1378 0545 40       		.byte	64
+ 1379 0546 C0       		.byte	-64
+ 1380 0547 20       		.byte	32
+ 1381 0548 D4       		.byte	-44
+ 1382 0549 20       		.byte	32
+ 1383 054a E6       		.byte	-26
+ 1384 054b C0       		.byte	-64
+ 1385 054c AB       		.byte	-85
+ 1386 054d 40       		.byte	64
+ 1387 054e EC       		.byte	-20
+ 1388 054f 80       		.byte	-128
+ 1389 0550 01       		.byte	1
+ 1390 0551 20       		.byte	32
+ 1391 0552 58       		.byte	88
+ 1392 0553 40       		.byte	64
+ 1393 0554 C0       		.byte	-64
+ 1394 0555 02       		.byte	2
+ 1395 0556 D4       		.byte	-44
+ 1396 0557 01       		.byte	1
+ 1397 0558 AC       		.byte	-84
+ 1398 0559 40       		.byte	64
+ 1399 055a B1       		.byte	-79
+ 1400 055b 20       		.byte	32
+ 1401 055c EA       		.byte	-22
+ 1402 055d 04       		.byte	4
+ 1403 055e 00       		.byte	0
+ 1404 055f 07       		.byte	7
+ 1405 0560 08       		.byte	8
+ 1406 0561 07       		.byte	7
+ 1407 0562 0A       		.byte	10
+ 1408 0563 01       		.byte	1
+ 1409 0564 00       		.byte	0
+ 1410 0565 FF       		.byte	-1
+ 1411 0566 00       		.byte	0
+ 1412 0567 00       		.byte	0
+ 1413 0568 02       		.byte	2
+ 1414 0569 00       		.byte	0
+ 1415 056a 00       		.byte	0
+ 1416 056b 02       		.byte	2
+ 1417 056c 02       		.byte	2
+ 1418 056d 00       		.byte	0
+ 1419 056e 02       		.byte	2
+ 1420 056f 00       		.byte	0
+ 1421 0570 00       		.byte	0
+ 1422 0571 00       		.byte	0
+ 1423 0572 00       		.byte	0
+ 1424 0573 00       		.byte	0
+ 1425 0574 04       		.byte	4
+ARM GAS  C:\Users\Lenovo\AppData\Local\Temp\ccn6Avri.s 			page 26
+
+
+ 1426 0575 00       		.byte	0
+ 1427 0576 08       		.byte	8
+ 1428 0577 04       		.byte	4
+ 1429 0578 04       		.byte	4
+ 1430 0579 00       		.byte	0
+ 1431 057a 04       		.byte	4
+ 1432 057b 00       		.byte	0
+ 1433 057c 00       		.byte	0
+ 1434 057d 00       		.byte	0
+ 1435 057e 00       		.byte	0
+ 1436 057f 00       		.byte	0
+ 1437 0580 00       		.byte	0
+ 1438 0581 0B       		.byte	11
+ 1439 0582 0B       		.byte	11
+ 1440 0583 00       		.byte	0
+ 1441 0584 00       		.byte	0
+ 1442 0585 00       		.byte	0
+ 1443 0586 00       		.byte	0
+ 1444 0587 00       		.byte	0
+ 1445 0588 04       		.byte	4
+ 1446 0589 00       		.byte	0
+ 1447 058a 00       		.byte	0
+ 1448 058b 06       		.byte	6
+ 1449 058c 02       		.byte	2
+ 1450 058d 00       		.byte	0
+ 1451 058e 02       		.byte	2
+ 1452 058f 00       		.byte	0
+ 1453 0590 00       		.byte	0
+ 1454 0591 00       		.byte	0
+ 1455 0592 00       		.byte	0
+ 1456 0593 00       		.byte	0
+ 1457              		.section	.cywolatch,"a",%progbits
+ 1458              		.align	2
+ 1459              		.type	cy_meta_wonvl, %object
+ 1460              		.size	cy_meta_wonvl, 4
+ 1461              	cy_meta_wonvl:
+ 1462 0000 BC       		.byte	-68
+ 1463 0001 90       		.byte	-112
+ 1464 0002 AC       		.byte	-84
+ 1465 0003 AF       		.byte	-81
+ 1466              		.section	.cycustnvl,"a",%progbits
+ 1467              		.align	2
+ 1468              		.type	cy_meta_custnvl, %object
+ 1469              		.size	cy_meta_custnvl, 4
+ 1470              	cy_meta_custnvl:
+ 1471 0000 00       		.byte	0
+ 1472 0001 00       		.byte	0
+ 1473 0002 40       		.byte	64
+ 1474 0003 05       		.byte	5
+ 1475              		.section	.cymeta,"a",%progbits
+ 1476              		.align	2
+ 1477              		.type	cy_metadata, %object
+ 1478              		.size	cy_metadata, 12
+ 1479              	cy_metadata:
+ 1480 0000 00       		.byte	0
+ 1481 0001 01       		.byte	1
+ 1482 0002 2E       		.byte	46
+ARM GAS  C:\Users\Lenovo\AppData\Local\Temp\ccn6Avri.s 			page 27
+
+
+ 1483 0003 16       		.byte	22
+ 1484 0004 10       		.byte	16
+ 1485 0005 69       		.byte	105
+ 1486 0006 00       		.byte	0
+ 1487 0007 01       		.byte	1
+ 1488 0008 00       		.byte	0
+ 1489 0009 00       		.byte	0
+ 1490 000a 00       		.byte	0
+ 1491 000b 00       		.byte	0
+ 1492              		.section	.cyflashprotect,"a",%progbits
+ 1493              		.align	2
+ 1494              		.type	cy_meta_flashprotect, %object
+ 1495              		.size	cy_meta_flashprotect, 256
+ 1496              	cy_meta_flashprotect:
+ 1497 0000 00000000 		.space	256
+ 1497      00000000 
+ 1497      00000000 
+ 1497      00000000 
+ 1497      00000000 
+ 1498              		.text
+ 1499              	.Letext0:
+ 1500              		.file 1 "c:\\program files (x86)\\cypress\\psoc creator\\4.2\\psoc creator\\import\\gnu\\arm\\5.4.
+ 1501              		.file 2 "c:\\program files (x86)\\cypress\\psoc creator\\4.2\\psoc creator\\import\\gnu\\arm\\5.4.
+ 1502              		.file 3 "Generated_Source\\PSoC5\\cymetadata.c"
+ 1503              		.section	.debug_info,"",%progbits
+ 1504              	.Ldebug_info0:
+ 1505 0000 32010000 		.4byte	0x132
+ 1506 0004 0400     		.2byte	0x4
+ 1507 0006 00000000 		.4byte	.Ldebug_abbrev0
+ 1508 000a 04       		.byte	0x4
+ 1509 000b 01       		.uleb128 0x1
+ 1510 000c 89000000 		.4byte	.LASF17
+ 1511 0010 0C       		.byte	0xc
+ 1512 0011 E3010000 		.4byte	.LASF18
+ 1513 0015 0A000000 		.4byte	.LASF19
+ 1514 0019 00000000 		.4byte	.Ldebug_line0
+ 1515 001d 02       		.uleb128 0x2
+ 1516 001e 01       		.byte	0x1
+ 1517 001f 06       		.byte	0x6
+ 1518 0020 D7010000 		.4byte	.LASF0
+ 1519 0024 03       		.uleb128 0x3
+ 1520 0025 00000000 		.4byte	.LASF9
+ 1521 0029 01       		.byte	0x1
+ 1522 002a 1D       		.byte	0x1d
+ 1523 002b 2F000000 		.4byte	0x2f
+ 1524 002f 02       		.uleb128 0x2
+ 1525 0030 01       		.byte	0x1
+ 1526 0031 08       		.byte	0x8
+ 1527 0032 7B000000 		.4byte	.LASF1
+ 1528 0036 02       		.uleb128 0x2
+ 1529 0037 02       		.byte	0x2
+ 1530 0038 05       		.byte	0x5
+ 1531 0039 C4010000 		.4byte	.LASF2
+ 1532 003d 02       		.uleb128 0x2
+ 1533 003e 02       		.byte	0x2
+ 1534 003f 07       		.byte	0x7
+ 1535 0040 29010000 		.4byte	.LASF3
+ARM GAS  C:\Users\Lenovo\AppData\Local\Temp\ccn6Avri.s 			page 28
+
+
+ 1536 0044 02       		.uleb128 0x2
+ 1537 0045 04       		.byte	0x4
+ 1538 0046 05       		.byte	0x5
+ 1539 0047 CE010000 		.4byte	.LASF4
+ 1540 004b 02       		.uleb128 0x2
+ 1541 004c 04       		.byte	0x4
+ 1542 004d 07       		.byte	0x7
+ 1543 004e 17010000 		.4byte	.LASF5
+ 1544 0052 02       		.uleb128 0x2
+ 1545 0053 08       		.byte	0x8
+ 1546 0054 05       		.byte	0x5
+ 1547 0055 B6010000 		.4byte	.LASF6
+ 1548 0059 02       		.uleb128 0x2
+ 1549 005a 08       		.byte	0x8
+ 1550 005b 07       		.byte	0x7
+ 1551 005c 6B010000 		.4byte	.LASF7
+ 1552 0060 04       		.uleb128 0x4
+ 1553 0061 04       		.byte	0x4
+ 1554 0062 05       		.byte	0x5
+ 1555 0063 696E7400 		.ascii	"int\000"
+ 1556 0067 02       		.uleb128 0x2
+ 1557 0068 04       		.byte	0x4
+ 1558 0069 07       		.byte	0x7
+ 1559 006a 5E010000 		.4byte	.LASF8
+ 1560 006e 03       		.uleb128 0x3
+ 1561 006f 82010000 		.4byte	.LASF10
+ 1562 0073 02       		.byte	0x2
+ 1563 0074 18       		.byte	0x18
+ 1564 0075 24000000 		.4byte	0x24
+ 1565 0079 05       		.uleb128 0x5
+ 1566 007a 91000000 		.4byte	0x91
+ 1567 007e 8A000000 		.4byte	0x8a
+ 1568 0082 06       		.uleb128 0x6
+ 1569 0083 8A000000 		.4byte	0x8a
+ 1570 0087 9305     		.2byte	0x593
+ 1571 0089 00       		.byte	0
+ 1572 008a 02       		.uleb128 0x2
+ 1573 008b 04       		.byte	0x4
+ 1574 008c 07       		.byte	0x7
+ 1575 008d AD010000 		.4byte	.LASF11
+ 1576 0091 07       		.uleb128 0x7
+ 1577 0092 6E000000 		.4byte	0x6e
+ 1578 0096 08       		.uleb128 0x8
+ 1579 0097 4C010000 		.4byte	.LASF12
+ 1580 009b 03       		.byte	0x3
+ 1581 009c 1F       		.byte	0x1f
+ 1582 009d A7000000 		.4byte	0xa7
+ 1583 00a1 05       		.uleb128 0x5
+ 1584 00a2 03       		.byte	0x3
+ 1585 00a3 00000000 		.4byte	cy_meta_configecc
+ 1586 00a7 07       		.uleb128 0x7
+ 1587 00a8 79000000 		.4byte	0x79
+ 1588 00ac 05       		.uleb128 0x5
+ 1589 00ad 91000000 		.4byte	0x91
+ 1590 00b1 BC000000 		.4byte	0xbc
+ 1591 00b5 09       		.uleb128 0x9
+ 1592 00b6 8A000000 		.4byte	0x8a
+ARM GAS  C:\Users\Lenovo\AppData\Local\Temp\ccn6Avri.s 			page 29
+
+
+ 1593 00ba 03       		.byte	0x3
+ 1594 00bb 00       		.byte	0
+ 1595 00bc 08       		.uleb128 0x8
+ 1596 00bd 3C010000 		.4byte	.LASF13
+ 1597 00c1 03       		.byte	0x3
+ 1598 00c2 DF       		.byte	0xdf
+ 1599 00c3 CD000000 		.4byte	0xcd
+ 1600 00c7 05       		.uleb128 0x5
+ 1601 00c8 03       		.byte	0x3
+ 1602 00c9 00000000 		.4byte	cy_meta_custnvl
+ 1603 00cd 07       		.uleb128 0x7
+ 1604 00ce AC000000 		.4byte	0xac
+ 1605 00d2 08       		.uleb128 0x8
+ 1606 00d3 9F010000 		.4byte	.LASF14
+ 1607 00d7 03       		.byte	0x3
+ 1608 00d8 ED       		.byte	0xed
+ 1609 00d9 E3000000 		.4byte	0xe3
+ 1610 00dd 05       		.uleb128 0x5
+ 1611 00de 03       		.byte	0x3
+ 1612 00df 00000000 		.4byte	cy_meta_wonvl
+ 1613 00e3 07       		.uleb128 0x7
+ 1614 00e4 AC000000 		.4byte	0xac
+ 1615 00e8 05       		.uleb128 0x5
+ 1616 00e9 91000000 		.4byte	0x91
+ 1617 00ed F8000000 		.4byte	0xf8
+ 1618 00f1 09       		.uleb128 0x9
+ 1619 00f2 8A000000 		.4byte	0x8a
+ 1620 00f6 FF       		.byte	0xff
+ 1621 00f7 00       		.byte	0
+ 1622 00f8 08       		.uleb128 0x8
+ 1623 00f9 8A010000 		.4byte	.LASF15
+ 1624 00fd 03       		.byte	0x3
+ 1625 00fe FB       		.byte	0xfb
+ 1626 00ff 09010000 		.4byte	0x109
+ 1627 0103 05       		.uleb128 0x5
+ 1628 0104 03       		.byte	0x3
+ 1629 0105 00000000 		.4byte	cy_meta_flashprotect
+ 1630 0109 07       		.uleb128 0x7
+ 1631 010a E8000000 		.4byte	0xe8
+ 1632 010e 05       		.uleb128 0x5
+ 1633 010f 91000000 		.4byte	0x91
+ 1634 0113 1E010000 		.4byte	0x11e
+ 1635 0117 09       		.uleb128 0x9
+ 1636 0118 8A000000 		.4byte	0x8a
+ 1637 011c 0B       		.byte	0xb
+ 1638 011d 00       		.byte	0
+ 1639 011e 0A       		.uleb128 0xa
+ 1640 011f 6F000000 		.4byte	.LASF16
+ 1641 0123 03       		.byte	0x3
+ 1642 0124 2801     		.2byte	0x128
+ 1643 0126 30010000 		.4byte	0x130
+ 1644 012a 05       		.uleb128 0x5
+ 1645 012b 03       		.byte	0x3
+ 1646 012c 00000000 		.4byte	cy_metadata
+ 1647 0130 07       		.uleb128 0x7
+ 1648 0131 0E010000 		.4byte	0x10e
+ 1649 0135 00       		.byte	0
+ARM GAS  C:\Users\Lenovo\AppData\Local\Temp\ccn6Avri.s 			page 30
+
+
+ 1650              		.section	.debug_abbrev,"",%progbits
+ 1651              	.Ldebug_abbrev0:
+ 1652 0000 01       		.uleb128 0x1
+ 1653 0001 11       		.uleb128 0x11
+ 1654 0002 01       		.byte	0x1
+ 1655 0003 25       		.uleb128 0x25
+ 1656 0004 0E       		.uleb128 0xe
+ 1657 0005 13       		.uleb128 0x13
+ 1658 0006 0B       		.uleb128 0xb
+ 1659 0007 03       		.uleb128 0x3
+ 1660 0008 0E       		.uleb128 0xe
+ 1661 0009 1B       		.uleb128 0x1b
+ 1662 000a 0E       		.uleb128 0xe
+ 1663 000b 10       		.uleb128 0x10
+ 1664 000c 17       		.uleb128 0x17
+ 1665 000d 00       		.byte	0
+ 1666 000e 00       		.byte	0
+ 1667 000f 02       		.uleb128 0x2
+ 1668 0010 24       		.uleb128 0x24
+ 1669 0011 00       		.byte	0
+ 1670 0012 0B       		.uleb128 0xb
+ 1671 0013 0B       		.uleb128 0xb
+ 1672 0014 3E       		.uleb128 0x3e
+ 1673 0015 0B       		.uleb128 0xb
+ 1674 0016 03       		.uleb128 0x3
+ 1675 0017 0E       		.uleb128 0xe
+ 1676 0018 00       		.byte	0
+ 1677 0019 00       		.byte	0
+ 1678 001a 03       		.uleb128 0x3
+ 1679 001b 16       		.uleb128 0x16
+ 1680 001c 00       		.byte	0
+ 1681 001d 03       		.uleb128 0x3
+ 1682 001e 0E       		.uleb128 0xe
+ 1683 001f 3A       		.uleb128 0x3a
+ 1684 0020 0B       		.uleb128 0xb
+ 1685 0021 3B       		.uleb128 0x3b
+ 1686 0022 0B       		.uleb128 0xb
+ 1687 0023 49       		.uleb128 0x49
+ 1688 0024 13       		.uleb128 0x13
+ 1689 0025 00       		.byte	0
+ 1690 0026 00       		.byte	0
+ 1691 0027 04       		.uleb128 0x4
+ 1692 0028 24       		.uleb128 0x24
+ 1693 0029 00       		.byte	0
+ 1694 002a 0B       		.uleb128 0xb
+ 1695 002b 0B       		.uleb128 0xb
+ 1696 002c 3E       		.uleb128 0x3e
+ 1697 002d 0B       		.uleb128 0xb
+ 1698 002e 03       		.uleb128 0x3
+ 1699 002f 08       		.uleb128 0x8
+ 1700 0030 00       		.byte	0
+ 1701 0031 00       		.byte	0
+ 1702 0032 05       		.uleb128 0x5
+ 1703 0033 01       		.uleb128 0x1
+ 1704 0034 01       		.byte	0x1
+ 1705 0035 49       		.uleb128 0x49
+ 1706 0036 13       		.uleb128 0x13
+ARM GAS  C:\Users\Lenovo\AppData\Local\Temp\ccn6Avri.s 			page 31
+
+
+ 1707 0037 01       		.uleb128 0x1
+ 1708 0038 13       		.uleb128 0x13
+ 1709 0039 00       		.byte	0
+ 1710 003a 00       		.byte	0
+ 1711 003b 06       		.uleb128 0x6
+ 1712 003c 21       		.uleb128 0x21
+ 1713 003d 00       		.byte	0
+ 1714 003e 49       		.uleb128 0x49
+ 1715 003f 13       		.uleb128 0x13
+ 1716 0040 2F       		.uleb128 0x2f
+ 1717 0041 05       		.uleb128 0x5
+ 1718 0042 00       		.byte	0
+ 1719 0043 00       		.byte	0
+ 1720 0044 07       		.uleb128 0x7
+ 1721 0045 26       		.uleb128 0x26
+ 1722 0046 00       		.byte	0
+ 1723 0047 49       		.uleb128 0x49
+ 1724 0048 13       		.uleb128 0x13
+ 1725 0049 00       		.byte	0
+ 1726 004a 00       		.byte	0
+ 1727 004b 08       		.uleb128 0x8
+ 1728 004c 34       		.uleb128 0x34
+ 1729 004d 00       		.byte	0
+ 1730 004e 03       		.uleb128 0x3
+ 1731 004f 0E       		.uleb128 0xe
+ 1732 0050 3A       		.uleb128 0x3a
+ 1733 0051 0B       		.uleb128 0xb
+ 1734 0052 3B       		.uleb128 0x3b
+ 1735 0053 0B       		.uleb128 0xb
+ 1736 0054 49       		.uleb128 0x49
+ 1737 0055 13       		.uleb128 0x13
+ 1738 0056 3F       		.uleb128 0x3f
+ 1739 0057 19       		.uleb128 0x19
+ 1740 0058 02       		.uleb128 0x2
+ 1741 0059 18       		.uleb128 0x18
+ 1742 005a 00       		.byte	0
+ 1743 005b 00       		.byte	0
+ 1744 005c 09       		.uleb128 0x9
+ 1745 005d 21       		.uleb128 0x21
+ 1746 005e 00       		.byte	0
+ 1747 005f 49       		.uleb128 0x49
+ 1748 0060 13       		.uleb128 0x13
+ 1749 0061 2F       		.uleb128 0x2f
+ 1750 0062 0B       		.uleb128 0xb
+ 1751 0063 00       		.byte	0
+ 1752 0064 00       		.byte	0
+ 1753 0065 0A       		.uleb128 0xa
+ 1754 0066 34       		.uleb128 0x34
+ 1755 0067 00       		.byte	0
+ 1756 0068 03       		.uleb128 0x3
+ 1757 0069 0E       		.uleb128 0xe
+ 1758 006a 3A       		.uleb128 0x3a
+ 1759 006b 0B       		.uleb128 0xb
+ 1760 006c 3B       		.uleb128 0x3b
+ 1761 006d 05       		.uleb128 0x5
+ 1762 006e 49       		.uleb128 0x49
+ 1763 006f 13       		.uleb128 0x13
+ARM GAS  C:\Users\Lenovo\AppData\Local\Temp\ccn6Avri.s 			page 32
+
+
+ 1764 0070 3F       		.uleb128 0x3f
+ 1765 0071 19       		.uleb128 0x19
+ 1766 0072 02       		.uleb128 0x2
+ 1767 0073 18       		.uleb128 0x18
+ 1768 0074 00       		.byte	0
+ 1769 0075 00       		.byte	0
+ 1770 0076 00       		.byte	0
+ 1771              		.section	.debug_aranges,"",%progbits
+ 1772 0000 14000000 		.4byte	0x14
+ 1773 0004 0200     		.2byte	0x2
+ 1774 0006 00000000 		.4byte	.Ldebug_info0
+ 1775 000a 04       		.byte	0x4
+ 1776 000b 00       		.byte	0
+ 1777 000c 0000     		.2byte	0
+ 1778 000e 0000     		.2byte	0
+ 1779 0010 00000000 		.4byte	0
+ 1780 0014 00000000 		.4byte	0
+ 1781              		.section	.debug_line,"",%progbits
+ 1782              	.Ldebug_line0:
+ 1783 0000 3D010000 		.section	.debug_str,"MS",%progbits,1
+ 1783      02003701 
+ 1783      00000201 
+ 1783      FB0E0D00 
+ 1783      01010101 
+ 1784              	.LASF9:
+ 1785 0000 5F5F7569 		.ascii	"__uint8_t\000"
+ 1785      6E74385F 
+ 1785      7400
+ 1786              	.LASF19:
+ 1787 000a 433A5C55 		.ascii	"C:\\Users\\Lenovo\\Documents\\PSoC Creator\\Digital"
+ 1787      73657273 
+ 1787      5C4C656E 
+ 1787      6F766F5C 
+ 1787      446F6375 
+ 1788 0038 5574696C 		.ascii	"UtilityExample01\\IMP-CRR\\DigitalUtilityExample01."
+ 1788      69747945 
+ 1788      78616D70 
+ 1788      6C653031 
+ 1788      5C494D50 
+ 1789 0069 63796473 		.ascii	"cydsn\000"
+ 1789      6E00
+ 1790              	.LASF16:
+ 1791 006f 63795F6D 		.ascii	"cy_metadata\000"
+ 1791      65746164 
+ 1791      61746100 
+ 1792              	.LASF1:
+ 1793 007b 756E7369 		.ascii	"unsigned char\000"
+ 1793      676E6564 
+ 1793      20636861 
+ 1793      7200
+ 1794              	.LASF17:
+ 1795 0089 474E5520 		.ascii	"GNU C11 5.4.1 20160609 (release) [ARM/embedded-5-br"
+ 1795      43313120 
+ 1795      352E342E 
+ 1795      31203230 
+ 1795      31363036 
+ 1796 00bc 616E6368 		.ascii	"anch revision 237715] -mcpu=cortex-m3 -mthumb -g -O"
+ARM GAS  C:\Users\Lenovo\AppData\Local\Temp\ccn6Avri.s 			page 33
+
+
+ 1796      20726576 
+ 1796      6973696F 
+ 1796      6E203233 
+ 1796      37373135 
+ 1797 00ef 67202D66 		.ascii	"g -ffunction-sections -ffat-lto-objects\000"
+ 1797      66756E63 
+ 1797      74696F6E 
+ 1797      2D736563 
+ 1797      74696F6E 
+ 1798              	.LASF5:
+ 1799 0117 6C6F6E67 		.ascii	"long unsigned int\000"
+ 1799      20756E73 
+ 1799      69676E65 
+ 1799      6420696E 
+ 1799      7400
+ 1800              	.LASF3:
+ 1801 0129 73686F72 		.ascii	"short unsigned int\000"
+ 1801      7420756E 
+ 1801      7369676E 
+ 1801      65642069 
+ 1801      6E7400
+ 1802              	.LASF13:
+ 1803 013c 63795F6D 		.ascii	"cy_meta_custnvl\000"
+ 1803      6574615F 
+ 1803      63757374 
+ 1803      6E766C00 
+ 1804              	.LASF12:
+ 1805 014c 63795F6D 		.ascii	"cy_meta_configecc\000"
+ 1805      6574615F 
+ 1805      636F6E66 
+ 1805      69676563 
+ 1805      6300
+ 1806              	.LASF8:
+ 1807 015e 756E7369 		.ascii	"unsigned int\000"
+ 1807      676E6564 
+ 1807      20696E74 
+ 1807      00
+ 1808              	.LASF7:
+ 1809 016b 6C6F6E67 		.ascii	"long long unsigned int\000"
+ 1809      206C6F6E 
+ 1809      6720756E 
+ 1809      7369676E 
+ 1809      65642069 
+ 1810              	.LASF10:
+ 1811 0182 75696E74 		.ascii	"uint8_t\000"
+ 1811      385F7400 
+ 1812              	.LASF15:
+ 1813 018a 63795F6D 		.ascii	"cy_meta_flashprotect\000"
+ 1813      6574615F 
+ 1813      666C6173 
+ 1813      6870726F 
+ 1813      74656374 
+ 1814              	.LASF14:
+ 1815 019f 63795F6D 		.ascii	"cy_meta_wonvl\000"
+ 1815      6574615F 
+ 1815      776F6E76 
+ 1815      6C00
+ARM GAS  C:\Users\Lenovo\AppData\Local\Temp\ccn6Avri.s 			page 34
+
+
+ 1816              	.LASF11:
+ 1817 01ad 73697A65 		.ascii	"sizetype\000"
+ 1817      74797065 
+ 1817      00
+ 1818              	.LASF6:
+ 1819 01b6 6C6F6E67 		.ascii	"long long int\000"
+ 1819      206C6F6E 
+ 1819      6720696E 
+ 1819      7400
+ 1820              	.LASF2:
+ 1821 01c4 73686F72 		.ascii	"short int\000"
+ 1821      7420696E 
+ 1821      7400
+ 1822              	.LASF4:
+ 1823 01ce 6C6F6E67 		.ascii	"long int\000"
+ 1823      20696E74 
+ 1823      00
+ 1824              	.LASF0:
+ 1825 01d7 7369676E 		.ascii	"signed char\000"
+ 1825      65642063 
+ 1825      68617200 
+ 1826              	.LASF18:
+ 1827 01e3 47656E65 		.ascii	"Generated_Source\\PSoC5\\cymetadata.c\000"
+ 1827      72617465 
+ 1827      645F536F 
+ 1827      75726365 
+ 1827      5C50536F 
+ 1828              		.ident	"GCC: (GNU Tools for ARM Embedded Processors) 5.4.1 20160609 (release) [ARM/embedded-5-bran

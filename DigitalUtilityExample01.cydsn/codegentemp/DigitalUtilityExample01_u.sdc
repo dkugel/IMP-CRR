@@ -1,3 +1,3 @@
-# Component constraints for C:\Users\Lenovo\Documents\PSoC Creator\DigitalUtilityExample01\DigitalUtilityExample01.cydsn\TopDesign\TopDesign.cysch
-# Project: C:\Users\Lenovo\Documents\PSoC Creator\DigitalUtilityExample01\DigitalUtilityExample01.cydsn\DigitalUtilityExample01.cyprj
-# Date: Mon, 18 Mar 2019 02:30:55 GMT
+# Component constraints for C:\Users\Lenovo\Documents\PSoC Creator\DigitalUtilityExample01\IMP-CRR\DigitalUtilityExample01.cydsn\TopDesign\TopDesign.cysch
+# Project: C:\Users\Lenovo\Documents\PSoC Creator\DigitalUtilityExample01\IMP-CRR\DigitalUtilityExample01.cydsn\DigitalUtilityExample01.cyprj
+# Date: Tue, 19 Mar 2019 02:30:27 GMT
