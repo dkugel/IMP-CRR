@@ -1,5 +1,5 @@
 -- Project:   DigitalUtilityExample01
--- Generated: 03/18/2019 21:30:40
+-- Generated: 03/21/2019 18:08:13
 -- PSoC Creator  4.2
 
 ENTITY DigitalUtilityExample01 IS
@@ -118,10 +118,15 @@ ARCHITECTURE __DEFAULT__ OF DigitalUtilityExample01 IS
     SIGNAL zero : bit;
     ATTRIBUTE GROUND OF zero : SIGNAL IS true;
     ATTRIBUTE lib_model OF P1_6(0) : LABEL IS "iocell1";
-    ATTRIBUTE Location OF P1_6(0) : LABEL IS "P2[2]";
+    ATTRIBUTE Location OF P1_6(0) : LABEL IS "P1[7]";
     ATTRIBUTE lib_model OF Pin_1(0) : LABEL IS "iocell2";
     ATTRIBUTE Location OF Pin_1(0) : LABEL IS "P2[1]";
-    ATTRIBUTE lib_model OF screen_rx(0) : LABEL IS "iocell_ireg";
+    ATTRIBUTE lib_model OF screen_rx(0) : LABEL IS "iocell3";
+    ATTRIBUTE Location OF screen_rx(0) : LABEL IS "P3[3]";
+    ATTRIBUTE lib_model OF screen_tx(0) : LABEL IS "iocell4";
+    ATTRIBUTE Location OF screen_tx(0) : LABEL IS "P3[4]";
+    ATTRIBUTE lib_model OF Tx_3(0) : LABEL IS "iocell5";
+    ATTRIBUTE Location OF Tx_3(0) : LABEL IS "P3[7]";
     ATTRIBUTE lib_model OF Net_413 : LABEL IS "macrocell1";
     ATTRIBUTE lib_model OF Net_433 : LABEL IS "macrocell2";
     ATTRIBUTE lib_model OF \screen:BUART:counter_load_not\ : LABEL IS "macrocell3";

@@ -2,7 +2,7 @@
 --	Conversion of DigitalUtilityExample01.v to vh2:
 --
 --	Cypress Semiconductor - WARP Version 6.3 IR 41
---	Mon Mar 18 21:30:33 2019
+--	Thu Mar 21 18:08:01 2019
 --
 
 USE cypress.cypress.all;

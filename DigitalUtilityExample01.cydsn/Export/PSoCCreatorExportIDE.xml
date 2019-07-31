@@ -37,7 +37,10 @@
       <Folder BuildType="STRICT" Path="C:\Users\Lenovo\Documents\PSoC Creator\DigitalUtilityExample01\IMP-CRR\DigitalUtilityExample01.cydsn">
         <Files Root="C:\Users\Lenovo\Documents\PSoC Creator\DigitalUtilityExample01\IMP-CRR\DigitalUtilityExample01.cydsn">
           <File BuildType="BUILD" Toolchain="">main.c</File>
+          <File BuildType="BUILD" Toolchain="">printer.c</File>
           <File BuildType="BUILD" Toolchain="">cyapicallbacks.h</File>
+          <File BuildType="BUILD" Toolchain="">GVar.h</File>
+          <File BuildType="BUILD" Toolchain="">printer.h</File>
         </Files>
       </Folder>
       <Folder BuildType="STRICT" Path="C:\Users\Lenovo\Documents\PSoC Creator\DigitalUtilityExample01\IMP-CRR\DigitalUtilityExample01.cydsn\Generated_Source\PSoC5">
@@ -115,6 +118,8 @@
           <File BuildType="BUILD" Toolchain="">Generated_Source\PSoC5\screen_IntClock.h</File>
           <File BuildType="BUILD" Toolchain="">Generated_Source\PSoC5\PRINTER_A_IntClock.c</File>
           <File BuildType="BUILD" Toolchain="">Generated_Source\PSoC5\PRINTER_A_IntClock.h</File>
+          <File BuildType="BUILD" Toolchain="">Generated_Source\PSoC5\EEPROM_1.c</File>
+          <File BuildType="BUILD" Toolchain="">Generated_Source\PSoC5\EEPROM_1.h</File>
         </Files>
       </Folder>
       <Folder BuildType="STRICT" Path="C:\Users\Lenovo\Documents\PSoC Creator\DigitalUtilityExample01\IMP-CRR\DigitalUtilityExample01.cydsn\Export\ARM_GCC_Generic">

@@ -27,6 +27,7 @@
 #include "debounced_Int.h"
 #include "screen.h"
 #include "PRINTER_A.h"
+#include "EEPROM_1.h"
 #include "screen_IntClock.h"
 #include "PRINTER_A_IntClock.h"
 #include "core_cm3_psoc5.h"

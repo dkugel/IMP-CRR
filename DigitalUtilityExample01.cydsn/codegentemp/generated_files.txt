@@ -38,6 +38,8 @@
   <file name="C:\Users\Lenovo\Documents\PSoC Creator\DigitalUtilityExample01\IMP-CRR\DigitalUtilityExample01.cydsn\codegentemp\PRINTER_A_PM.c" value="SOURCE_C;CortexM3;;;;PRINTER_A" />
   <file name="C:\Users\Lenovo\Documents\PSoC Creator\DigitalUtilityExample01\IMP-CRR\DigitalUtilityExample01.cydsn\codegentemp\PRINTER_A_INT.c" value="SOURCE_C;CortexM3;;;;PRINTER_A" />
   <file name="C:\Users\Lenovo\Documents\PSoC Creator\DigitalUtilityExample01\IMP-CRR\DigitalUtilityExample01.cydsn\codegentemp\PRINTER_A_BOOT.c" value="SOURCE_C;CortexM3;;;;PRINTER_A" />
+  <file name="C:\Users\Lenovo\Documents\PSoC Creator\DigitalUtilityExample01\IMP-CRR\DigitalUtilityExample01.cydsn\codegentemp\EEPROM_1.c" value="SOURCE_C;CortexM3;;;;EEPROM_1" />
+  <file name="C:\Users\Lenovo\Documents\PSoC Creator\DigitalUtilityExample01\IMP-CRR\DigitalUtilityExample01.cydsn\codegentemp\EEPROM_1.h" value="HEADER;;;;;EEPROM_1" />
   <file name="C:\Users\Lenovo\Documents\PSoC Creator\DigitalUtilityExample01\IMP-CRR\DigitalUtilityExample01.cydsn\codegentemp\screen_IntClock.c" value="SOURCE_C;CortexM3;;;;screen_IntClock" />
   <file name="C:\Users\Lenovo\Documents\PSoC Creator\DigitalUtilityExample01\IMP-CRR\DigitalUtilityExample01.cydsn\codegentemp\screen_IntClock.h" value="HEADER;;;;;screen_IntClock" />
   <file name="C:\Users\Lenovo\Documents\PSoC Creator\DigitalUtilityExample01\IMP-CRR\DigitalUtilityExample01.cydsn\codegentemp\PRINTER_A_IntClock.c" value="SOURCE_C;CortexM3;;;;PRINTER_A_IntClock" />
